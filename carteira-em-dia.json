@@ -1,0 +1,2989 @@
+{
+  "projeto": "Carteira em Dia · Instagram",
+  "conta_instagram": "carteiraemdia.com.br",
+  "periodo": {
+    "inicio": "2026-10-14",
+    "fim": "2026-11-12"
+  },
+  "fuso": "America/Sao_Paulo",
+  "gerado_em": "2026-10-11T21:35:19-03:00",
+  "horarios": {
+    "story": "10:00",
+    "feed_manha": "12:00",
+    "feed_tarde": "18:00"
+  },
+  "total_pecas": 90,
+  "posts": [
+    {
+      "id": "01",
+      "data": "2026-10-14",
+      "dia": 1,
+      "dia_semana": "Quarta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-14T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Boas-vindas: sua carteira inteira num lugar só",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-01_boas-vindas.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-01_2026-10-14/MANHA/STORY-01_boas-vindas.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "data": "2026-10-14",
+      "dia": 1,
+      "dia_semana": "Quarta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-14T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Juros compostos: o tempo faz o trabalho pesado",
+      "legenda": "Einstein provavelmente nunca disse que os juros compostos são a oitava maravilha do mundo. Mas a ideia é tão boa que a frase pegou.\n\nJuros compostos são juros sobre juros: o que rendeu este mês passa a render também no próximo. No começo, a diferença é quase invisível. Com o tempo, ela vira a parte principal do patrimônio.\n\nNo exemplo do carrossel, R$ 500 por mês a 10% ao ano viram cerca de R$ 359 mil em 20 anos. Desse total, só R$ 120 mil saíram do seu bolso. O resto, mais de R$ 239 mil, veio dos juros.\n\nTrês coisas aceleram essa bola de neve: tempo, constância nos aportes e reinvestir os rendimentos.\n\nNa Carteira em Dia tem uma calculadora de juros compostos para você simular com os seus números.\n\nSalva e manda para quem acha que precisa de muito dinheiro para começar 📌\n\nValores ilustrativos, sem impostos e taxas. Conteúdo educativo. Não é recomendação de investimento.\n\n#juroscompostos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-02_juros-compostos_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-02_juros-compostos_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-02_juros-compostos_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-02_juros-compostos_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-02_juros-compostos_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-02_juros-compostos_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "data": "2026-10-14",
+      "dia": 1,
+      "dia_semana": "Quarta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-14T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "Tour: sua carteira inteira num lugar só",
+      "legenda": "Um tour rápido pela Carteira em Dia 👇\n\nNa primeira tela, o que importa: patrimônio total, lucro, proventos recebidos e a evolução do patrimônio mês a mês.\n\nLogo abaixo, cada ativo separado por classe (ações, FIIs, BDRs, ETFs, renda fixa...), com rentabilidade, nota e o peso de cada um na carteira.\n\nNa alocação, a carteira atual lado a lado com a ideal que você definiu. Na rentabilidade, o desempenho comparado com CDI, IPCA, Ibovespa e outros índices.\n\nE tudo isso no tema claro ou escuro, do jeito que você preferir.\n\nConheça pelo link na bio 💙\n\n#carteiraemdia #controledeinvestimentos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-03_tour.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-01_2026-10-14/TARDE/REELS-03_tour.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "data": "2026-10-15",
+      "dia": 2,
+      "dia_semana": "Quinta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-15T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: CDI",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-04_cdi.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/MANHA/STORY-04_cdi.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "data": "2026-10-15",
+      "dia": 2,
+      "dia_semana": "Quinta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-15T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Por que a Carteira em Dia existe",
+      "legenda": "Investir nunca foi tão fácil. Abrir conta leva cinco minutos, comprar um título leva dois cliques.\n\nO difícil veio depois: ação numa corretora, FII em outra, CDB no banco, Tesouro numa aba esquecida do navegador. Quando alguém pergunta \"quanto você tem investido?\", a resposta costuma ser \"deixa eu ver...\".\n\nA Carteira em Dia nasceu para resolver isso. Um lugar só para ver o patrimônio inteiro, a rentabilidade comparada com o CDI, os proventos que caíram e os que ainda vão cair, e quanto falta para chegar na alocação que você definiu.\n\nSem promessa de rentabilidade e sem dica de ativo. Só clareza para você decidir melhor.\n\nAcompanhe. Compare. Decida. 💙\n\n#carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-05_manifesto.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/MANHA/ESTATICO-05_manifesto.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "data": "2026-10-15",
+      "dia": 2,
+      "dia_semana": "Quinta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-15T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "CDI e Selic são a mesma coisa?",
+      "legenda": "CDI e Selic aparecem em todo lugar: no extrato, no anúncio do CDB, na notícia do jornal. E muita gente acha que é a mesma coisa. Quase.\n\nA Selic é a taxa básica de juros da economia, definida pelo Copom, o comitê do Banco Central que se reúne a cada 45 dias. Ela é a referência para todos os outros juros.\n\nO CDI é a taxa média que os bancos cobram uns dos outros em empréstimos de um dia. Como esses empréstimos seguem a Selic de perto, as duas taxas andam praticamente juntas.\n\nNa prática: quando a Selic sobe, o CDI sobe junto e os investimentos pós-fixados (como um CDB que paga 100% do CDI) passam a render mais. Quando ela cai, rendem menos.\n\nE o CDI ainda serve de régua: se a sua renda fixa rendeu menos que ele, vale entender por quê.\n\nFicou mais claro? Conta aqui 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#cdi #selic #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-06_cdi-x-selic_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-06_cdi-x-selic_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-06_cdi-x-selic_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-06_cdi-x-selic_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-06_cdi-x-selic_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-06_cdi-x-selic_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "data": "2026-10-16",
+      "dia": 3,
+      "dia_semana": "Sexta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-16T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Dica: reserva não é investimento",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-07_reserva-nao-e-investimento.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-03_2026-10-16/MANHA/STORY-07_reserva-nao-e-investimento.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "data": "2026-10-16",
+      "dia": 3,
+      "dia_semana": "Sexta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-16T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "Juros compostos em 15 segundos",
+      "legenda": "R$ 500 por mês viram quanto em 20 anos? 👀\n\nCom juros compostos de 10% ao ano, cerca de R$ 359 mil. E o mais impressionante: só R$ 120 mil saíram do seu bolso. Os outros R$ 239 mil foram os juros trabalhando por você.\n\nÉ por isso que tempo e constância pesam tanto. O começo parece lento, mas é nele que a bola de neve começa a rolar.\n\nQuer simular com os seus números? A Carteira em Dia tem uma calculadora de juros compostos. Link na bio.\n\nExemplo ilustrativo, sem impostos e taxas. Conteúdo educativo. Não é recomendação de investimento.\n\n#juroscompostos #investir #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-08_juros-compostos-15s.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-03_2026-10-16/MANHA/REELS-08_juros-compostos-15s.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "data": "2026-10-16",
+      "dia": 3,
+      "dia_semana": "Sexta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-16T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Antes de investir, monte sua reserva",
+      "legenda": "Antes de pensar em ação, FII ou cripto, uma pergunta: se o carro quebrar amanhã, de onde sai o dinheiro?\n\nSe a resposta for \"vendo algum investimento\", a reserva de emergência ainda não está pronta. E é aí que mora o perigo: imprevisto não escolhe o melhor momento do mercado para acontecer.\n\nUma boa reserva tem três características:\n• Liquidez: dá para resgatar rápido, de preferência no mesmo dia\n• Segurança: baixo risco de perder valor no curto prazo\n• Rendimento: acompanha pelo menos a taxa de referência\n\nA referência mais comum é guardar de 6 a 12 meses do seu custo de vida. Quem tem renda menos previsível costuma mirar no lado mais alto.\n\nE um detalhe que faz diferença: deixe a reserva separada dos investimentos de longo prazo. Misturar tudo é o caminho mais curto para usar o dinheiro errado na hora errada.\n\nSua reserva já está completa? Conta aqui 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#reservadeemergencia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-09_reserva-de-emergencia.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-03_2026-10-16/TARDE/ESTATICO-09_reserva-de-emergencia.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "data": "2026-10-17",
+      "dia": 4,
+      "dia_semana": "Sábado",
+      "horario": "10:00",
+      "publicar_em": "2026-10-17T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: IPCA",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-10_ipca.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-04_2026-10-17/MANHA/STORY-10_ipca.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "data": "2026-10-17",
+      "dia": 4,
+      "dia_semana": "Sábado",
+      "horario": "12:00",
+      "publicar_em": "2026-10-17T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Prefixado, pós-fixado e IPCA+",
+      "legenda": "Todo título de renda fixa rende de um destes três jeitos. Entender a diferença ajuda a escolher o certo para cada objetivo.\n\n🔒 Prefixado: a taxa é combinada na compra. Se você contratou 12% ao ano, é isso que recebe no vencimento, aconteça o que acontecer com os juros.\n\n📈 Pós-fixado: o rendimento segue um índice, normalmente o CDI ou a Selic. Se os juros sobem, ele passa a render mais. Se caem, rende menos.\n\n🛡️ IPCA+: paga a inflação do período mais uma taxa fixa. É o tipo pensado para proteger o poder de compra no longo prazo.\n\nUm detalhe importante: prefixados e IPCA+ podem oscilar de preço antes do vencimento (a famosa marcação a mercado). Quem leva até o fim recebe o combinado. Quem vende antes pode ganhar ou perder.\n\nQual dos três você mais usa? 👇\n\nTaxas citadas são ilustrativas. Conteúdo educativo. Não é recomendação de investimento.\n\n#rendafixa #tesourodireto #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "data": "2026-10-17",
+      "dia": 4,
+      "dia_semana": "Sábado",
+      "horario": "18:00",
+      "publicar_em": "2026-10-17T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "POV: tentando saber quanto você tem investido",
+      "legenda": "Se você já abriu cinco apps diferentes só para descobrir quanto tem investido, esse vídeo é sobre você 😅\n\nCorretora A, corretora B, o banco, o site do Tesouro e aquela planilha que você jurou que ia atualizar. No fim, uma soma aproximada e nenhuma ideia de quanto a carteira rendeu.\n\nFoi exatamente por isso que a Carteira em Dia nasceu: um lugar só para ver o patrimônio inteiro, a rentabilidade comparada com o CDI, os proventos e a alocação.\n\nMarca aqui o amigo que vive nessa saga 👇\n\n#carteiraemdia #organizacaofinanceira #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-12_pov-5-apps.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-04_2026-10-17/TARDE/REELS-12_pov-5-apps.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "data": "2026-10-18",
+      "dia": 5,
+      "dia_semana": "Domingo",
+      "horario": "10:00",
+      "publicar_em": "2026-10-18T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: CDB",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-13_cdb.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/MANHA/STORY-13_cdb.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "data": "2026-10-18",
+      "dia": 5,
+      "dia_semana": "Domingo",
+      "horario": "12:00",
+      "publicar_em": "2026-10-18T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Volatilidade não é prejuízo",
+      "legenda": "Abriu o app, viu a carteira no vermelho e bateu aquele frio na barriga? Respira.\n\nVolatilidade é o sobe e desce natural dos preços. Uma ação que você comprou a R$ 100 pode valer R$ 80 numa semana e R$ 105 no mês seguinte. Enquanto você não vende, aquilo é variação no papel, não dinheiro perdido.\n\nO prejuízo de verdade acontece quando você vende abaixo do preço que pagou. E, muitas vezes, isso acontece justamente no pior momento: no meio do susto.\n\nNão quer dizer que todo ativo sempre volta. Quer dizer que a decisão de vender precisa vir de uma análise, não do medo do dia.\n\nTer uma reserva separada e um plano para cada investimento ajuda muito a passar por essas fases com mais calma.\n\nQual foi a maior queda que você já aguentou sem vender? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#rendavariavel #acoes #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-14_volatilidade-nao-e-prejuizo.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/MANHA/ESTATICO-14_volatilidade-nao-e-prejuizo.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "data": "2026-10-18",
+      "dia": 5,
+      "dia_semana": "Domingo",
+      "horario": "18:00",
+      "publicar_em": "2026-10-18T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "FGC: o que ele cobre e o que não cobre",
+      "legenda": "Banco quebra? Raramente, mas acontece. E é aí que entra o FGC, o Fundo Garantidor de Créditos.\n\nO FGC é uma espécie de seguro mantido pelos próprios bancos. Se uma instituição associada quebrar, ele devolve o dinheiro de quem tinha investimentos garantidos, até R$ 250 mil por CPF por instituição, incluindo os rendimentos. Existe ainda um teto global de R$ 1 milhão a cada 4 anos.\n\nO que tem a garantia: CDB, RDB, LCI, LCA, LC, poupança, entre outros.\n\nO que não tem: Tesouro Direto (que é garantido pelo próprio governo), ações, FIIs, ETFs, fundos de investimento, debêntures, CRIs e CRAs.\n\nDuas lições práticas: se o valor em uma instituição passar do limite, vale dividir. E o FGC não protege de oscilação de mercado, só da quebra da instituição.\n\nVocê sabia desses limites? 👇\n\nFonte: fgc.org.br. Conteúdo educativo. Não é recomendação de investimento.\n\n#fgc #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-15_fgc_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-15_fgc_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-15_fgc_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-15_fgc_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-15_fgc_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-15_fgc_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "data": "2026-10-19",
+      "dia": 6,
+      "dia_semana": "Segunda",
+      "horario": "10:00",
+      "publicar_em": "2026-10-19T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "No app: alocação atual x ideal",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-16_app-alocacao.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-06_2026-10-19/MANHA/STORY-16_app-alocacao.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "data": "2026-10-19",
+      "dia": 6,
+      "dia_semana": "Segunda",
+      "horario": "12:00",
+      "publicar_em": "2026-10-19T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: alocação atual x ideal",
+      "legenda": "A sua carteira está onde você planejou? Na tela de alocação da Carteira em Dia, dá para ver em segundos 🎯\n\nÀ esquerda, a alocação atual. À direita, a ideal: a que você definiu.\n\nVocê escolhe as classes que fazem sentido para você (ações nacionais, FIIs, Tesouro Direto, ETFs, renda fixa, exterior, cripto) e ajusta a meta de cada uma com um clique.\n\nSalvou, o gráfico atualiza na hora. E a diferença entre os dois mostra para onde o próximo aporte pode ir.\n\nAs metas são suas. O app só mostra o caminho.\n\nJá definiu a sua alocação ideal? 👇\n\n#alocacaodeativos #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-17_alocacao.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-06_2026-10-19/MANHA/REELS-17_alocacao.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "data": "2026-10-19",
+      "dia": 6,
+      "dia_semana": "Segunda",
+      "horario": "18:00",
+      "publicar_em": "2026-10-19T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Data com x data de pagamento",
+      "legenda": "\"Comprei a ação ontem e não recebi o dividendo.\" Se isso já aconteceu com você, a culpa é da data com.\n\nData com: é o último dia para ter o ativo na carteira e garantir o direito ao provento. Quem compra a partir do dia seguinte (a data ex) já não recebe aquele pagamento.\n\nData de pagamento: é quando o dinheiro de fato cai na conta. Pode ser dias, semanas ou até meses depois da data com.\n\nE a parte que pouca gente sabe: se você tinha o ativo na data com e vendeu logo depois, o provento continua sendo seu. O direito já estava garantido.\n\nNa Carteira em Dia, cada provento aparece com o tipo (dividendo ou JCP), a data ex, a data de pagamento e o status: pago ou a receber.\n\nSalva esse post para não confundir mais 📌\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#dividendos #proventos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-18_data-com-e-pagamento.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-06_2026-10-19/TARDE/ESTATICO-18_data-com-e-pagamento.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "data": "2026-10-20",
+      "dia": 7,
+      "dia_semana": "Terça",
+      "horario": "10:00",
+      "publicar_em": "2026-10-20T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: liquidez diária",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-19_liquidez-diaria.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-07_2026-10-20/MANHA/STORY-19_liquidez-diaria.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "data": "2026-10-20",
+      "dia": 7,
+      "dia_semana": "Terça",
+      "horario": "12:00",
+      "publicar_em": "2026-10-20T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "LCI e LCA: o que são",
+      "legenda": "LCI e LCA estão entre os investimentos de renda fixa mais procurados por pessoa física. O principal motivo: pela regra atual, elas são isentas de imposto de renda.\n\nLCI é a Letra de Crédito Imobiliário: o banco usa o dinheiro para financiar o setor imobiliário. LCA é a Letra de Crédito do Agronegócio: o dinheiro vai para o agro. Para quem investe, as duas funcionam de um jeito parecido.\n\nO que elas têm em comum:\n✅ Isenção de IR para pessoa física (regra vigente; vale sempre conferir a legislação atual)\n✅ Garantia do FGC, dentro dos limites\n⏳ Prazo mínimo para resgate, ou seja, não servem para quem pode precisar do dinheiro a qualquer momento\n\nNa hora de comparar com um CDB, olhe a taxa líquida. Uma LCI que paga 90% do CDI rende mais que um CDB de 105% do CDI com IR de 15%, que vira cerca de 89% do CDI líquido.\n\nSalva para a próxima comparação 📌\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#lci #lca #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-20_lci-lca_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-20_lci-lca_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-20_lci-lca_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-20_lci-lca_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-20_lci-lca_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-20_lci-lca_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "data": "2026-10-20",
+      "dia": 7,
+      "dia_semana": "Terça",
+      "horario": "18:00",
+      "publicar_em": "2026-10-20T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "CDI x Selic em 15 segundos",
+      "legenda": "CDI e Selic: a dupla que aparece em todo investimento de renda fixa. Em 15 segundos:\n\nSelic é a taxa básica de juros da economia, definida pelo Copom, do Banco Central.\nCDI é a taxa que os bancos cobram entre si em empréstimos de um dia.\n\nComo uma segue a outra de perto, na prática elas andam quase juntas. E o CDI virou a régua da renda fixa: um CDB de 100% do CDI acompanha essa taxa.\n\nNa Carteira em Dia, a rentabilidade da sua carteira aparece comparada ao CDI do mesmo período.\n\nFontes: Banco Central e B3. Conteúdo educativo. Não é recomendação de investimento.\n\n#cdi #selic #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-21_cdi-x-selic-15s.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-07_2026-10-20/TARDE/REELS-21_cdi-x-selic-15s.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "data": "2026-10-21",
+      "dia": 8,
+      "dia_semana": "Quarta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-21T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: Tesouro Selic",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-22_tesouro-selic.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/MANHA/STORY-22_tesouro-selic.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "data": "2026-10-21",
+      "dia": 8,
+      "dia_semana": "Quarta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-21T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Ticker: o que o número final significa",
+      "legenda": "Já reparou que a mesma empresa pode ter dois ou três códigos diferentes na Bolsa? Não é erro.\n\nO número no fim do ticker indica o tipo de ativo:\n\n3 → ação ordinária (ON). Dá direito a voto nas assembleias da empresa.\n4 → ação preferencial (PN). Em geral não vota, mas tem preferência no recebimento de proventos.\n11 → na maioria dos casos, units (um pacote de ações), fundos imobiliários ou ETFs.\n\nExistem outros finais (5, 6, 34 para BDRs...), mas esses três são os que mais aparecem.\n\nNa prática, ABCD3 e ABCD4 são da mesma empresa, mas podem ter preços, liquidez e proventos diferentes. Vale olhar com calma antes de clicar em comprar.\n\nQual ticker já te confundiu? 😅\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#bolsadevalores #acoes #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-23_ticker.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/MANHA/ESTATICO-23_ticker.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "data": "2026-10-21",
+      "dia": 8,
+      "dia_semana": "Quarta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-21T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Tesouro Direto: os títulos",
+      "legenda": "O Tesouro Direto é o jeito de emprestar dinheiro para o governo federal e receber juros por isso. Dá para começar com pouco e tem opções para objetivos bem diferentes.\n\nTesouro Selic: acompanha a taxa Selic, oscila pouco e tem liquidez diária. Por isso é um dos preferidos para reserva de emergência.\n\nTesouro Prefixado: a taxa é travada na compra. Levando até o vencimento, você recebe exatamente o contratado.\n\nTesouro IPCA+: paga a inflação mais uma taxa fixa. Bom para objetivos de longo prazo, como aposentadoria. Tem versão com juros semestrais.\n\nRenda+ e Educa+: os mais novos. Pagam uma renda mensal por um período, pensados para a aposentadoria e para a educação dos filhos.\n\nAntes de vender, lembre: prefixados e IPCA+ podem oscilar até o vencimento, o IR é regressivo e existe taxa de custódia da B3.\n\nQual título você tem? 👇\n\nFontes: Tesouro Direto e B3. Conteúdo educativo. Não é recomendação de investimento.\n\n#tesourodireto #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-24_tesouro-direto_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-24_tesouro-direto_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-24_tesouro-direto_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-24_tesouro-direto_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-24_tesouro-direto_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-24_tesouro-direto_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-06.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 7,
+          "arquivo": "CARROSSEL-24_tesouro-direto_slide-07.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-07.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "data": "2026-10-22",
+      "dia": 9,
+      "dia_semana": "Quinta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-22T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "No app: proventos",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-25_app-proventos.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-09_2026-10-22/MANHA/STORY-25_app-proventos.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "data": "2026-10-22",
+      "dia": 9,
+      "dia_semana": "Quinta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-22T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: proventos num lugar só",
+      "legenda": "Dividendo da empresa A, JCP da empresa B, rendimento do FII C... e cada um caindo numa conta diferente. Dá para acompanhar sem planilha? 💰\n\nNa tela de proventos da Carteira em Dia, fica tudo junto:\n\n• Quanto cada ativo já pagou para você\n• Proventos por período: mês, trimestre ou ano, separando o que já foi recebido do que ainda está a receber\n• Histórico anual, com média mensal e variação\n• A tabela completa: tipo (dividendo ou JCP), data ex, data de pagamento, status e valores bruto e líquido\n\nE as notificações avisam quando um provento cai.\n\nVocê acompanha os seus proventos hoje? 👇\n\n#dividendos #proventos #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-26_proventos.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-09_2026-10-22/MANHA/REELS-26_proventos.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "data": "2026-10-22",
+      "dia": 9,
+      "dia_semana": "Quinta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-22T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Dividend yield em uma imagem",
+      "legenda": "Dividend yield (ou DY) é uma das métricas mais olhadas por quem gosta de proventos. E uma das mais mal interpretadas.\n\nA conta é simples: quanto o ativo pagou nos últimos 12 meses, dividido pelo preço atual. Se uma ação de R$ 100 pagou R$ 8, o DY é 8%.\n\nO cuidado está no denominador. Se o preço da ação despenca, o DY sobe sozinho, sem a empresa ter pagado nada a mais. Um DY muito alto às vezes é o mercado avisando que algo não vai bem.\n\nTambém vale lembrar que o DY olha para trás. Um pagamento extraordinário no ano passado pode inflar o número e não se repetir.\n\nPor isso, DY funciona melhor como ponto de partida, junto com o histórico de pagamentos e a saúde da empresa.\n\nVocê olha o DY antes de investir? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#dividendos #dividendyield #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-27_dividend-yield.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-09_2026-10-22/TARDE/ESTATICO-27_dividend-yield.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "data": "2026-10-23",
+      "dia": 10,
+      "dia_semana": "Sexta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-23T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: provento",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-28_provento.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-10_2026-10-23/MANHA/STORY-28_provento.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "data": "2026-10-23",
+      "dia": 10,
+      "dia_semana": "Sexta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-23T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "JCP x dividendos: qual a diferença?",
+      "legenda": "Caiu dinheiro na conta e no extrato está escrito \"JCP\". É dividendo? Quase, mas não exatamente.\n\nDividendos são uma parte do lucro que a empresa distribui aos acionistas. As regras de tributação de dividendos passaram por mudanças recentes, principalmente para quem recebe valores altos, então vale sempre conferir a regra vigente.\n\nJCP (juros sobre capital próprio) é outra forma de a empresa remunerar o acionista, calculada sobre o patrimônio. Para a empresa, tem vantagem fiscal. Para você, o imposto já vem retido na fonte: o valor que cai é o líquido.\n\nPor isso, ao acompanhar proventos, vale olhar o valor bruto e o líquido, a data com e a data de pagamento.\n\nNa Carteira em Dia, cada provento aparece com o tipo (dividendo ou JCP), as datas e o valor bruto e líquido.\n\nVocê recebe mais dividendos ou JCP? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#dividendos #jcp #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "data": "2026-10-23",
+      "dia": 10,
+      "dia_semana": "Sexta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-23T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "3 números que todo investidor deveria saber",
+      "legenda": "Responde de cabeça, sem abrir nenhum app 👇\n\n1. Qual é o seu patrimônio total investido, somando todas as contas?\n2. Quanto a sua carteira rendeu este ano, comparada com o CDI?\n3. Quanto você recebeu de proventos nos últimos 12 meses?\n\nSe travou em algum, normal. A maioria das pessoas sabe quanto investiu, mas não sabe quanto rendeu nem quanto recebeu.\n\nEsses três números contam se a sua estratégia está funcionando. No painel da Carteira em Dia, os três aparecem logo na primeira tela.\n\nQuantos você acertou? Conta aí 👇\n\n#carteiraemdia #investimentos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-30_3-numeros.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-10_2026-10-23/TARDE/REELS-30_3-numeros.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "data": "2026-10-24",
+      "dia": 11,
+      "dia_semana": "Sábado",
+      "horario": "10:00",
+      "publicar_em": "2026-10-24T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: FII",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-31_fii.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/MANHA/STORY-31_fii.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "data": "2026-10-24",
+      "dia": 11,
+      "dia_semana": "Sábado",
+      "horario": "12:00",
+      "publicar_em": "2026-10-24T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "P/VP dos FIIs em uma imagem",
+      "legenda": "P/VP é preço sobre valor patrimonial. Nos fundos imobiliários, ele compara quanto o mercado paga pela cota com quanto ela vale \"no papel\".\n\nP/VP abaixo de 1: a cota está sendo negociada abaixo do patrimônio. Pode ser oportunidade, mas também pode ser sinal de problema (vacância alta, inquilino saindo, imóvel mal avaliado).\n\nP/VP igual a 1: preço e patrimônio estão alinhados.\n\nP/VP acima de 1: o mercado está disposto a pagar mais do que o valor contábil. Às vezes por qualidade, às vezes por euforia.\n\nO ponto é: P/VP é um termômetro, não um veredito. Ele faz sentido junto com vacância, qualidade dos imóveis e dos contratos, gestão e histórico de rendimentos.\n\nSalva para consultar na próxima análise 📌\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#fundosimobiliarios #fiis #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-32_p-vp.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/MANHA/ESTATICO-32_p-vp.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "data": "2026-10-24",
+      "dia": 11,
+      "dia_semana": "Sábado",
+      "horario": "18:00",
+      "publicar_em": "2026-10-24T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "FIIs de tijolo, papel e fundos de fundos",
+      "legenda": "Nem todo fundo imobiliário é dono de imóvel. Existem três tipos principais, e cada um tem riscos diferentes.\n\n🏢 FIIs de tijolo: investem em imóveis físicos, como galpões logísticos, shoppings e lajes corporativas. A renda vem dos aluguéis. O que observar: vacância, localização, qualidade e duração dos contratos.\n\n📄 FIIs de papel: investem em títulos ligados ao setor imobiliário, principalmente CRIs. A renda vem dos juros desses títulos. O que observar: a qualidade de crédito de quem deve e os indexadores (CDI, IPCA).\n\n📦 Fundos de fundos (FoFs): compram cotas de outros FIIs. Dão diversificação em um único papel, mas com uma camada a mais de taxa.\n\nMuita gente mistura os três na carteira. E em todos vale a regra: rendimento passado não garante rendimento futuro.\n\nVocê prefere tijolo ou papel? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#fundosimobiliarios #fiis #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "data": "2026-10-25",
+      "dia": 12,
+      "dia_semana": "Domingo",
+      "horario": "10:00",
+      "publicar_em": "2026-10-25T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Dica: anote cada operação",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-34_anote-operacoes.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-12_2026-10-25/MANHA/STORY-34_anote-operacoes.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "data": "2026-10-25",
+      "dia": 12,
+      "dia_semana": "Domingo",
+      "horario": "12:00",
+      "publicar_em": "2026-10-25T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "Seu saldo subiu. Mas rendeu?",
+      "legenda": "O saldo foi de R$ 10 mil para R$ 17 mil no ano. A carteira rendeu 70%? 🤔\n\nNão. Se você aportou R$ 6 mil ao longo do ano, o rendimento de verdade foi R$ 1 mil. O resto foi esforço seu, não do mercado.\n\nOs dois importam, mas misturar os dois esconde a resposta mais importante: a sua estratégia está funcionando?\n\nNo gráfico de evolução da Carteira em Dia, o valor aplicado e o ganho aparecem separados, em cores diferentes.\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#rentabilidade #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-35_saldo-ou-rendimento.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-12_2026-10-25/MANHA/REELS-35_saldo-ou-rendimento.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "data": "2026-10-25",
+      "dia": 12,
+      "dia_semana": "Domingo",
+      "horario": "18:00",
+      "publicar_em": "2026-10-25T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "As taxas que comem o rendimento",
+      "legenda": "1% ao ano parece pouco. Até você fazer a conta em 20 anos.\n\nAs taxas são cobradas sobre o patrimônio, todo ano, faça chuva ou faça sol. E elas comem justamente a parte que deveria render juros sobre juros.\n\nAs principais para ficar de olho:\n• Taxa de administração: cobrada pelos fundos para pagar a gestão\n• Taxa de performance: uma fatia do que o fundo render acima do benchmark\n• Taxa de custódia: cobrada por algumas instituições para guardar seus ativos\n• Spread: a diferença que algumas instituições embutem no preço de títulos de renda fixa\n\nNenhuma delas é vilã por si só. Uma gestão boa pode valer a taxa. O problema é pagar sem saber.\n\nNa hora de comparar dois investimentos parecidos, olhe sempre a rentabilidade líquida, depois de taxas e impostos.\n\nVocê sabe quanto paga de taxa hoje? 👀\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#taxas #fundosdeinvestimento #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-36_taxas.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-12_2026-10-25/TARDE/ESTATICO-36_taxas.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "data": "2026-10-26",
+      "dia": 13,
+      "dia_semana": "Segunda",
+      "horario": "10:00",
+      "publicar_em": "2026-10-26T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: benchmark",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-37_benchmark.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-13_2026-10-26/MANHA/STORY-37_benchmark.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "data": "2026-10-26",
+      "dia": 13,
+      "dia_semana": "Segunda",
+      "horario": "12:00",
+      "publicar_em": "2026-10-26T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "D+0, D+1, D+30: o que significa?",
+      "legenda": "Você pede o resgate hoje. Quando o dinheiro cai? A resposta está no \"D+\".\n\nD é o dia do pedido. O número depois do + é quantos dias úteis levam até o dinheiro chegar na conta.\n\nD+0: cai no mesmo dia (comum em CDBs com liquidez diária e no Tesouro Selic, dependendo do horário)\nD+2: é o prazo de liquidação na venda de ações e FIIs\nD+30 ou mais: comum em alguns fundos de investimento\n\nE não confunda liquidez com vencimento. Liquidez é quando você pode sacar. Vencimento é quando o título termina. Um CDB pode vencer daqui a três anos e, mesmo assim, permitir resgate diário.\n\nPara a reserva de emergência, liquidez rápida é obrigatória. Para objetivos com data marcada, dá para casar o vencimento com a data. Para o longo prazo, prender o dinheiro por mais tempo pode compensar.\n\nSalva para conferir antes do próximo investimento 📌\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#liquidez #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "data": "2026-10-26",
+      "dia": 13,
+      "dia_semana": "Segunda",
+      "horario": "18:00",
+      "publicar_em": "2026-10-26T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: rentabilidade x CDI e índices",
+      "legenda": "\"Minha carteira rendeu 10%.\" Foi bom? Só dá para saber comparando 📈\n\nNa tela de rentabilidade da Carteira em Dia:\n\n• Total do período, últimos 12 meses e último mês, cada um comparado com o CDI\n• Período ajustável: de 3 meses a 10 anos, ou desde o início\n• Gráfico de rentabilidade acumulada da sua carteira contra CDI, IPCA, Ibovespa, SMLL, IDIV, IFIX e IVVB11\n• Mapa de retornos mensais, com cada mês de cada ano colorido de verde ou vermelho\n\nEm poucos segundos, você sabe se a carteira está ganhando ou perdendo da régua certa.\n\nCom qual índice você compara a sua carteira? 👇\n\n#rentabilidade #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-39_rentabilidade.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-13_2026-10-26/TARDE/REELS-39_rentabilidade.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "data": "2026-10-27",
+      "dia": 14,
+      "dia_semana": "Terça",
+      "horario": "10:00",
+      "publicar_em": "2026-10-27T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: custódia",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-40_custodia.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/MANHA/STORY-40_custodia.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "data": "2026-10-27",
+      "dia": 14,
+      "dia_semana": "Terça",
+      "horario": "12:00",
+      "publicar_em": "2026-10-27T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Saldo subiu ou rendeu?",
+      "legenda": "Começou o ano com R$ 10 mil e terminou com R$ 17 mil. Sua carteira rendeu 70%? Infelizmente, não.\n\nSe no meio do caminho você aportou R$ 6 mil, o rendimento de verdade foi R$ 1 mil. O resto foi dinheiro que saiu do seu bolso, não do mercado.\n\nParece óbvio escrito assim, mas é um dos enganos mais comuns. Olhar só o saldo mistura duas coisas bem diferentes: o seu esforço de poupar e o trabalho dos investimentos.\n\nAs duas importam. Mas para saber se a sua estratégia está funcionando, você precisa enxergar cada uma separada.\n\nNo gráfico de evolução da Carteira em Dia, o valor aplicado e o ganho de capital aparecem em cores diferentes. Fica fácil ver quem está carregando o piano.\n\nVocê já tinha feito essa conta? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#rentabilidade #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-41_saldo-subiu-ou-rendeu.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/MANHA/ESTATICO-41_saldo-subiu-ou-rendeu.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "data": "2026-10-27",
+      "dia": 14,
+      "dia_semana": "Terça",
+      "horario": "18:00",
+      "publicar_em": "2026-10-27T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "IR na renda fixa: a tabela regressiva",
+      "legenda": "Na renda fixa, o imposto de renda premia quem tem paciência. É a tabela regressiva:\n\n⏳ Até 180 dias: 22,5%\n⏳ De 181 a 360 dias: 20%\n⏳ De 361 a 720 dias: 17,5%\n✅ Acima de 720 dias: 15%\n\nO imposto é cobrado só sobre o rendimento, nunca sobre o valor que você investiu, e normalmente já vem descontado no resgate.\n\nVale para CDB, RDB, LC, Tesouro Direto e fundos de renda fixa (que ainda têm o come-cotas). Ficam de fora, para pessoa física e pela regra vigente, LCI, LCA, CRI, CRA e poupança.\n\nE tem o IOF: se você resgatar antes de 30 dias, ainda paga IOF sobre o rendimento, que começa alto e vai a zero no 30º dia.\n\nMoral da história: casar o prazo do investimento com o seu objetivo também economiza imposto.\n\nVocê já tinha reparado nessa tabela? 👇\n\nFonte: Receita Federal. Conteúdo educativo. Não é recomendação de investimento.\n\n#impostoderenda #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "data": "2026-10-28",
+      "dia": 15,
+      "dia_semana": "Quarta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-28T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Pergunta: quanto sua carteira rendeu este ano?",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-43_pergunta-rentabilidade.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-15_2026-10-28/MANHA/STORY-43_pergunta-rentabilidade.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "data": "2026-10-28",
+      "dia": 15,
+      "dia_semana": "Quarta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-28T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "Liquidez em 15 segundos",
+      "legenda": "Liquidez em 15 segundos ⏱️\n\nD+0: o dinheiro cai no mesmo dia (comum em CDBs com liquidez diária)\nD+2: dois dias úteis, como na venda de ações e FIIs\nD+30 ou mais: comum em alguns fundos de investimento\n\nA pergunta \"em quanto tempo consigo sacar?\" é tão importante quanto \"quanto rende?\". Principalmente para a reserva de emergência, que precisa estar disponível rápido.\n\nCada produto define o seu prazo: confira sempre antes de investir.\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#liquidez #rendafixa #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-44_liquidez-15s.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-15_2026-10-28/MANHA/REELS-44_liquidez-15s.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "data": "2026-10-28",
+      "dia": 15,
+      "dia_semana": "Quarta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-28T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Juros simples x compostos",
+      "legenda": "R$ 30 de diferença em dois anos. Parece pouco, né? Segura essa.\n\nNos juros simples, o rendimento é calculado sempre sobre o valor inicial. R$ 1.000 a 1% ao mês rendem R$ 10, todo mês, para sempre.\n\nNos juros compostos, o rendimento é calculado sobre o valor acumulado. No segundo mês, quem rende são R$ 1.010. No terceiro, R$ 1.020,10. E assim vai.\n\nEm 24 meses, a diferença é de R$ 30. Em 10 anos, com a mesma taxa, os juros simples chegam a R$ 2.200 e os compostos passam de R$ 3.300. Em 20 anos, a distância fica gigante.\n\nPor isso se fala tanto em começar cedo e reinvestir os rendimentos: é o composto que faz o trabalho pesado.\n\nManda para alguém que precisa ver isso 📲\n\nExemplo ilustrativo, sem impostos e taxas. Conteúdo educativo. Não é recomendação de investimento.\n\n#juroscompostos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-45_juros-simples-x-compostos.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-15_2026-10-28/TARDE/ESTATICO-45_juros-simples-x-compostos.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "data": "2026-10-29",
+      "dia": 16,
+      "dia_semana": "Quinta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-29T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: IOF",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-46_iof.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-16_2026-10-29/MANHA/STORY-46_iof.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "data": "2026-10-29",
+      "dia": 16,
+      "dia_semana": "Quinta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-29T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Come-cotas: o imposto que vem antes",
+      "legenda": "Abriu o extrato do fundo e a quantidade de cotas diminuiu do nada? Provavelmente foi o come-cotas.\n\nO come-cotas é a antecipação do imposto de renda em fundos de investimento. Duas vezes por ano, no último dia útil de maio e de novembro, a Receita \"come\" uma parte das suas cotas como adiantamento do IR.\n\nAs alíquotas são de 15% para fundos de longo prazo e 20% para fundos de curto prazo, sempre sobre o rendimento do período. No resgate, se a tabela regressiva der um imposto maior, você paga só a diferença.\n\nNa prática, o come-cotas tira dinheiro que estaria rendendo juros compostos. Por isso, na hora de comparar um fundo com um CDB ou um título do Tesouro, olhe a rentabilidade depois dos impostos.\n\nFundos de ações, FIIs e ETFs não têm come-cotas: cada um tem regra própria.\n\nO próximo come-cotas é no fim de novembro. Já sabia? 👇\n\nFonte: Receita Federal. Conteúdo educativo. Não é recomendação de investimento.\n\n#comecotas #fundosdeinvestimento #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-47_come-cotas_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-47_come-cotas_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-47_come-cotas_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-47_come-cotas_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-47_come-cotas_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-47_come-cotas_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "data": "2026-10-29",
+      "dia": 16,
+      "dia_semana": "Quinta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-29T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: calculadora de juros compostos",
+      "legenda": "Quanto R$ 1.000 por mês podem virar em 20 anos? Na calculadora de juros compostos da Carteira em Dia, você descobre em segundos 🧮\n\nColoque o capital inicial, o aporte mensal, o prazo e a rentabilidade anual esperada. O app mostra:\n\n• O valor final, o total investido e quanto veio dos juros\n• O gráfico do investido x juros ao longo do tempo\n• Marcos de 2 em 2 anos\n• A tabela completa, mês a mês\n\nÓtimo para planejar metas e entender o poder do tempo.\n\nLembrando: são simulações matemáticas, não garantia de rentabilidade.\n\nQual meta você quer simular? 👇\n\n#juroscompostos #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-48_calculadora.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-16_2026-10-29/TARDE/REELS-48_calculadora.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "data": "2026-10-30",
+      "dia": 17,
+      "dia_semana": "Sexta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-30T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: taxa de administração",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-49_taxa-de-administracao.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/MANHA/STORY-49_taxa-de-administracao.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "data": "2026-10-30",
+      "dia": 17,
+      "dia_semana": "Sexta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-30T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Quando um ativo pesa demais",
+      "legenda": "Ter 12 ativos não significa estar diversificado. Depende de quanto cada um pesa.\n\nImagina uma carteira em que um único ativo representa 48% do total. Se ele cair 20%, a carteira inteira cai quase 10%, mesmo que os outros 11 fiquem parados.\n\nConcentração acontece sem ninguém perceber: aquele ativo que subiu muito vai ganhando espaço, os aportes vão sempre para o mesmo lugar, e quando você olha, metade do patrimônio depende de uma empresa só.\n\nNão existe um número mágico de limite. Mas existe uma pergunta que ajuda: se esse ativo cair pela metade amanhã, eu fico bem?\n\nNa Carteira em Dia, cada ativo mostra o peso atual na carteira e o peso ideal que você definiu. Dá para ver na hora quem está pesando demais.\n\nQual é o maior peso da sua carteira hoje? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#diversificacao #gestaoderisco #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-50_concentracao.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/MANHA/ESTATICO-50_concentracao.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "data": "2026-10-30",
+      "dia": 17,
+      "dia_semana": "Sexta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-30T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "ETF: o que é e como funciona",
+      "legenda": "Quer investir em dezenas de empresas de uma vez, comprando um único código? É isso que um ETF faz.\n\nETF (Exchange Traded Fund) é um fundo de índice negociado na Bolsa. Ele replica a carteira de um índice, como o Ibovespa ou o S&P 500, e você compra e vende as cotas pelo home broker, como faria com uma ação.\n\nPor que tanta gente usa:\n• Diversificação instantânea\n• Taxas geralmente menores que as de fundos com gestão ativa\n• Praticidade para entrar e sair\n\nO que observar antes: qual índice o ETF segue (Brasil, exterior, renda fixa, setores), a taxa de administração e a liquidez, que é o volume negociado no dia a dia.\n\nUma diferença em relação aos fundos comuns: no ETF, o preço muda ao longo do pregão. No fundo comum, a cota é calculada uma vez por dia.\n\nNa Carteira em Dia, ETFs nacionais e internacionais entram na mesma visão de carteira.\n\nVocê já investe em algum ETF? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#etf #investimentos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-51_etf_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-51_etf_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-51_etf_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-51_etf_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-51_etf_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-51_etf_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "data": "2026-10-31",
+      "dia": 18,
+      "dia_semana": "Sábado",
+      "horario": "10:00",
+      "publicar_em": "2026-10-31T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "31/10: Dia Mundial da Poupança",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-52_dia-da-poupanca.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-31/MANHA/STORY-52_dia-da-poupanca.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "data": "2026-10-31",
+      "dia": 18,
+      "dia_semana": "Sábado",
+      "horario": "12:00",
+      "publicar_em": "2026-10-31T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "3 mitos sobre investimentos",
+      "legenda": "3 mitos que a gente escuta toda semana 👇\n\n❌ \"Renda fixa não oscila.\" Títulos prefixados e IPCA+ têm marcação a mercado: o preço muda todo dia até o vencimento. Quem leva até o fim recebe o combinado, mas quem vende antes pode ganhar ou perder.\n\n❌ \"FII é aluguel garantido.\" Os rendimentos dependem de vacância, inadimplência e contratos. Podem cair, e às vezes caem.\n\n❌ \"Dividend yield alto é sempre bom.\" Como o DY é proventos dividido pelo preço, ele sobe quando o preço cai. Às vezes é sinal de problema.\n\nEm investimentos, desconfie de toda frase com \"sempre\" ou \"nunca\".\n\nQual outro mito você já ouviu? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#mitos #educacaofinanceira #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-53_3-mitos.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-18_2026-10-31/MANHA/REELS-53_3-mitos.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "data": "2026-10-31",
+      "dia": 18,
+      "dia_semana": "Sábado",
+      "horario": "18:00",
+      "publicar_em": "2026-10-31T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "31/10: Dia Mundial da Poupança",
+      "legenda": "Hoje é Dia Mundial da Poupança. A data existe desde 1924 e nasceu para lembrar uma coisa simples: guardar dinheiro muda vidas.\n\nQuase 100 anos depois, a mensagem continua valendo. Mas dá para ir um passo além.\n\nPoupar é gastar menos do que ganha. Investir é colocar esse dinheiro para trabalhar. E acompanhar é saber se está funcionando: quanto você tem, quanto rendeu, se está perto da meta.\n\nMuita gente faz bem os dois primeiros e pula o terceiro. E é justamente o terceiro que mostra se o esforço está valendo a pena.\n\nQue tal comemorar hoje fazendo um check-up rápido da carteira? Patrimônio total, rentabilidade do ano e alocação. Cinco minutos.\n\nFeliz Dia da Poupança 💙\n\n#diamundialdapoupanca #poupanca #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-54_dia-mundial-da-poupanca.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-31/TARDE/ESTATICO-54_dia-mundial-da-poupanca.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "data": "2026-11-01",
+      "dia": 19,
+      "dia_semana": "Domingo",
+      "horario": "10:00",
+      "publicar_em": "2026-11-01T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "No app: rentabilidade contra o CDI",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-55_app-rentabilidade.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-11-01/MANHA/STORY-55_app-rentabilidade.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "data": "2026-11-01",
+      "dia": 19,
+      "dia_semana": "Domingo",
+      "horario": "12:00",
+      "publicar_em": "2026-11-01T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Rentabilidade nominal x real",
+      "legenda": "Seu investimento rendeu 12% no ano. Você ficou 12% mais rico? Não necessariamente.\n\nRentabilidade nominal é o número do extrato: quanto o dinheiro cresceu em reais.\n\nRentabilidade real é quanto ele cresceu depois de descontar a inflação. É a que mostra se o seu poder de compra aumentou de verdade.\n\nA conta não é só subtrair. Com 12% de rendimento e 5% de inflação, o ganho real é (1,12 ÷ 1,05) − 1, o que dá 6,7%.\n\nE o contrário também vale: um investimento que rendeu 4% num ano em que a inflação foi de 5% deixou você com menos poder de compra, mesmo com o saldo maior.\n\nPor isso, compare sempre os seus resultados com a inflação. Na Carteira em Dia, o IPCA aparece no gráfico de rentabilidade junto com a sua carteira.\n\nFicou claro? Salva para não esquecer 📌\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#rentabilidade #inflacao #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "data": "2026-11-01",
+      "dia": 19,
+      "dia_semana": "Domingo",
+      "horario": "18:00",
+      "publicar_em": "2026-11-01T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: simulador de aporte",
+      "legenda": "Caiu dinheiro novo para investir e veio a dúvida: quanto colocar em cada ativo? 🧮\n\nNo simulador de aporte da Carteira em Dia, você digita o valor e o app mostra como ele se divide entre os ativos, de acordo com as metas de alocação que você definiu (e com as notas que você deu para cada ativo no seu checklist).\n\nGostou da divisão? Dá para registrar os lançamentos direto da simulação, sem digitar tudo de novo.\n\nImportante: é uma conta feita com as suas metas e os seus critérios, não uma recomendação de investimento.\n\nComo você decide o próximo aporte hoje? 👇\n\n#aporte #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-57_simular-aporte.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-19_2026-11-01/TARDE/REELS-57_simular-aporte.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "data": "2026-11-02",
+      "dia": 20,
+      "dia_semana": "Segunda",
+      "horario": "10:00",
+      "publicar_em": "2026-11-02T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: volatilidade",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-58_volatilidade.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/MANHA/STORY-58_volatilidade.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "data": "2026-11-02",
+      "dia": 20,
+      "dia_semana": "Segunda",
+      "horario": "12:00",
+      "publicar_em": "2026-11-02T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Ações x FIIs: o básico",
+      "legenda": "Ações e fundos imobiliários estão lado a lado no home broker, mas são bichos diferentes.\n\nCom ações, você vira sócio de uma empresa. O ganho vem da valorização e dos proventos (dividendos e JCP), que costumam sair em datas variáveis, conforme a política de cada empresa.\n\nCom FIIs, você vira cotista de um fundo que investe no setor imobiliário: galpões, shoppings, escritórios ou títulos ligados a imóveis. Os rendimentos costumam ser distribuídos todo mês.\n\nEm comum: os dois oscilam, os dois dependem do desempenho do negócio e nenhum tem rendimento garantido. O FII que paga bem hoje pode pagar menos amanhã se perder um inquilino, por exemplo.\n\nMuita gente tem os dois na carteira, cada um com um papel.\n\nE você, tem mais ações ou mais FIIs? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#acoes #fundosimobiliarios #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-59_acoes-x-fiis.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/MANHA/ESTATICO-59_acoes-x-fiis.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "data": "2026-11-02",
+      "dia": 20,
+      "dia_semana": "Segunda",
+      "horario": "18:00",
+      "publicar_em": "2026-11-02T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "5 erros de quem está começando a investir",
+      "legenda": "Todo mundo erra no começo. Mas alguns erros são tão comuns que dá para evitar só sabendo que eles existem.\n\n1. Investir sem reserva de emergência. Aí qualquer imprevisto obriga a vender, e quase sempre na hora errada.\n\n2. Escolher pelo que mais rendeu no último ano. Rentabilidade passada não garante rentabilidade futura. O campeão de um ano às vezes é o lanterna do outro.\n\n3. Não saber quanto tem. Com dinheiro em três corretoras e dois bancos, fica difícil enxergar concentrações e riscos.\n\n4. Esquecer taxas e impostos. A rentabilidade que importa é a líquida.\n\n5. Decidir no impulso. Notícia do dia e dica de grupo não são estratégia. Ter critérios definidos antes ajuda a não comprar no topo nem vender no fundo.\n\nQual desses você já cometeu? Pode ser sincero 😅👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#investidoriniciante #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-60_5-erros_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-60_5-erros_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-60_5-erros_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-60_5-erros_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-60_5-erros_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-60_5-erros_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-06.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 7,
+          "arquivo": "CARROSSEL-60_5-erros_slide-07.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-07.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "data": "2026-11-03",
+      "dia": 21,
+      "dia_semana": "Terça",
+      "horario": "10:00",
+      "publicar_em": "2026-11-03T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: IFIX",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-61_ifix.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-21_2026-11-03/MANHA/STORY-61_ifix.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "data": "2026-11-03",
+      "dia": 21,
+      "dia_semana": "Terça",
+      "horario": "12:00",
+      "publicar_em": "2026-11-03T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "Por onde começar a investir",
+      "legenda": "Quer começar a investir e não sabe por onde? Uma ordem que evita muita dor de cabeça:\n\n1️⃣ Reserva de emergência. Antes de qualquer outra coisa, um colchão com liquidez e segurança. É ele que impede você de vender investimentos no pior momento.\n\n2️⃣ Objetivos com data. Viagem no ano que vem, entrada de um carro, um curso. Aqui, o prazo do investimento deve combinar com a data do objetivo.\n\n3️⃣ Longo prazo. Com a base pronta, sobra espaço para investimentos que oscilam mais e precisam de tempo, como ações e FIIs.\n\nNão existe atalho: quem pula o passo 1 costuma pagar caro no passo 3.\n\nEm qual passo você está? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#comecarainvestir #investidoriniciante #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-62_por-onde-comecar.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-21_2026-11-03/MANHA/REELS-62_por-onde-comecar.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "data": "2026-11-03",
+      "dia": 21,
+      "dia_semana": "Terça",
+      "horario": "18:00",
+      "publicar_em": "2026-11-03T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "O que R$ 1.000 compram depois de 20 anos",
+      "legenda": "Guardar dinheiro embaixo do colchão parece seguro. Mas tem um ladrão silencioso: a inflação.\n\nCom inflação de 5% ao ano, R$ 1.000 de hoje compram, em 10 anos, o equivalente a R$ 614 de hoje. Em 20 anos, o mesmo que R$ 377. A nota continua lá, mas compra bem menos.\n\nÉ por isso que o primeiro objetivo de qualquer investimento é empatar com a inflação. Só o que vier acima disso é crescimento de verdade.\n\nOs títulos IPCA+ do Tesouro, por exemplo, existem justamente para proteger o poder de compra: pagam a inflação mais uma taxa.\n\nNa Carteira em Dia, dá para comparar a rentabilidade da sua carteira com o IPCA e ver se ela está, de fato, ganhando da inflação.\n\nSua carteira está ganhando do IPCA este ano? 👇\n\nValores ilustrativos. Conteúdo educativo. Não é recomendação de investimento.\n\n#inflacao #ipca #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-63_inflacao-poder-de-compra.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-21_2026-11-03/TARDE/ESTATICO-63_inflacao-poder-de-compra.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "data": "2026-11-04",
+      "dia": 22,
+      "dia_semana": "Quarta",
+      "horario": "10:00",
+      "publicar_em": "2026-11-04T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Dica: diversificar tem limite",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-64_diversificar-tem-limite.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-22_2026-11-04/MANHA/STORY-64_diversificar-tem-limite.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "data": "2026-11-04",
+      "dia": 22,
+      "dia_semana": "Quarta",
+      "horario": "12:00",
+      "publicar_em": "2026-11-04T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Diversificar não é pulverizar",
+      "legenda": "\"Não coloque todos os ovos na mesma cesta.\" Ótimo conselho. Mas 40 cestas iguais também não resolvem.\n\nDiversificar é distribuir o dinheiro entre ativos que se comportam de jeitos diferentes: renda fixa, ações, FIIs, exterior, setores distintos. Assim, uma queda num lugar não derruba a carteira inteira.\n\nPulverizar é ir comprando um pouco de tudo, sem critério, até ter dezenas de ativos parecidos e não lembrar mais por que cada um está ali. Dá trabalho para acompanhar e, muitas vezes, nem reduz o risco.\n\nAlguns sinais de pulverização: você não lembra por que comprou certo ativo, tem vários do mesmo setor, ou posições tão pequenas que não fazem diferença no resultado.\n\nUm caminho mais organizado: primeiro defina as classes e as metas de cada uma, depois escolha os ativos dentro de cada classe e acompanhe os pesos ao longo do tempo.\n\nSua carteira está diversificada ou pulverizada? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#diversificacao #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "data": "2026-11-04",
+      "dia": 22,
+      "dia_semana": "Quarta",
+      "horario": "18:00",
+      "publicar_em": "2026-11-04T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "Rendeu 12%. Ganhou 12%?",
+      "legenda": "Seu investimento rendeu 12% no ano. Você ficou 12% mais rico? Quase nunca.\n\nSe a inflação do período foi de 5%, os preços também subiram. O ganho real, que é quanto o seu poder de compra aumentou de verdade, foi de cerca de 6,7%.\n\nE repara: não é só subtrair 12 − 5. A conta certa é (1,12 ÷ 1,05) − 1.\n\nPor isso vale comparar sempre a rentabilidade com a inflação. Na Carteira em Dia, o IPCA aparece no gráfico de rentabilidade junto com a sua carteira.\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#inflacao #rentabilidade #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-66_rentabilidade-real.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-22_2026-11-04/TARDE/REELS-66_rentabilidade-real.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "data": "2026-11-05",
+      "dia": 23,
+      "dia_semana": "Quinta",
+      "horario": "10:00",
+      "publicar_em": "2026-11-05T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Dica: olhe a carteira uma vez por mês",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-67_olhe-uma-vez-por-mes.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/MANHA/STORY-67_olhe-uma-vez-por-mes.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "data": "2026-11-05",
+      "dia": 23,
+      "dia_semana": "Quinta",
+      "horario": "12:00",
+      "publicar_em": "2026-11-05T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Tudo o que a carteira mostra",
+      "legenda": "O que dá para fazer na Carteira em Dia? Um resumo rápido das telas:\n\n📊 Painel: patrimônio total, lucro, proventos recebidos e a evolução do patrimônio mês a mês\n🎯 Alocação: a distribuição atual da carteira comparada com a meta que você definiu\n💰 Proventos: dividendos e JCP por ativo e por período, com o que já caiu e o que ainda vai cair\n📈 Rentabilidade: o desempenho comparado com CDI, IPCA, Ibovespa, IFIX e outros índices, mais o mapa de retornos mês a mês\n🧮 Simulador de aporte: digite um valor e veja como ele se divide segundo as suas metas\n📒 Histórico de operações: todas as compras e vendas, exportáveis em Excel, CSV ou PDF\n\nE ainda tem calculadora de juros compostos, avaliação de ativos com as suas próprias perguntas e tema escuro.\n\nConheça pelo link na bio 💙\n\n#carteiraemdia #controledeinvestimentos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-68_tudo-num-lugar.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/MANHA/ESTATICO-68_tudo-num-lugar.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "data": "2026-11-05",
+      "dia": 23,
+      "dia_semana": "Quinta",
+      "horario": "18:00",
+      "publicar_em": "2026-11-05T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Rebalancear: voltar para a meta",
+      "legenda": "Você montou a carteira com 50% em renda fixa e 50% em ações. Um ano depois, as ações subiram e agora são 58%. Sua carteira está mais arriscada do que você planejou, e você nem mexeu nela.\n\nRebalancear é trazer a carteira de volta para as metas que você definiu. Existem duas formas principais:\n\n1️⃣ Pelos aportes: direcionar o dinheiro novo para a classe que está abaixo da meta. É a forma mais simples, sem vender nada e sem gerar imposto.\n\n2️⃣ Vendendo e comprando: vender parte do que passou da meta e comprar o que ficou abaixo. Funciona, mas atenção aos custos e ao imposto sobre o lucro da venda.\n\nRebalancear tem um efeito curioso: na prática, faz você vender um pouco do que subiu e comprar do que ficou para trás.\n\nO simulador de aporte da Carteira em Dia distribui o valor que você digitar de acordo com as suas metas de alocação.\n\nVocê costuma rebalancear? 👇\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#rebalanceamento #alocacaodeativos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-69_rebalanceamento_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-69_rebalanceamento_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-69_rebalanceamento_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-69_rebalanceamento_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-69_rebalanceamento_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-69_rebalanceamento_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "data": "2026-11-06",
+      "dia": 24,
+      "dia_semana": "Sexta",
+      "horario": "10:00",
+      "publicar_em": "2026-11-06T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "No app: avalie ativos com seus critérios",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-70_app-perguntas.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-24_2026-11-06/MANHA/STORY-70_app-perguntas.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "data": "2026-11-06",
+      "dia": 24,
+      "dia_semana": "Sexta",
+      "horario": "12:00",
+      "publicar_em": "2026-11-06T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: avalie ativos com seus próprios critérios",
+      "legenda": "Comprar porque \"todo mundo está falando\" ou porque o gráfico subiu ontem? Melhor ter critérios 🧭\n\nNa Carteira em Dia, você avalia cada ativo com perguntas de sim ou não, como \"a empresa tem histórico de crescimento consistente?\" ou \"a empresa tem boa posição competitiva?\".\n\nDá para usar as perguntas padrão ou criar as suas, escolhendo a categoria (fundamentalista, valuation, qualitativa, risco, governança...) e o peso de cada uma. No fim, cada ativo ganha uma nota.\n\nE essa nota entra no simulador de aporte, junto com as suas metas.\n\nO método é seu. O app só ajuda a seguir ele com disciplina.\n\nQuais critérios você usa antes de investir? 👇\n\n#analisefundamentalista #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-71_perguntas.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-24_2026-11-06/MANHA/REELS-71_perguntas.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "data": "2026-11-06",
+      "dia": 24,
+      "dia_semana": "Sexta",
+      "horario": "18:00",
+      "publicar_em": "2026-11-06T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Começar cedo vale mais que aportar mais",
+      "legenda": "Duas pessoas, mesma taxa de 10% ao ano.\n\nA primeira investe R$ 600 por mês durante 25 anos e chega a cerca de R$ 740 mil.\n\nA segunda investe metade disso, R$ 300 por mês, mas começa 10 anos antes: são 35 anos. Ela chega a mais de R$ 1 milhão.\n\nInvestindo menos por mês, a segunda pessoa termina com mais. A diferença é o tempo dando espaço para os juros compostos trabalharem.\n\nNão é para ninguém se culpar por não ter começado aos 20. É para lembrar que, a partir de hoje, cada mês conta. Começar com pouco, agora, costuma valer mais do que esperar para começar com muito.\n\nMarca aqui alguém que precisa ver isso 👇\n\nExemplo ilustrativo, sem impostos e taxas. Conteúdo educativo. Não é recomendação de investimento.\n\n#juroscompostos #investir #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-72_comecar-cedo.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-24_2026-11-06/TARDE/ESTATICO-72_comecar-cedo.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "data": "2026-11-07",
+      "dia": 25,
+      "dia_semana": "Sábado",
+      "horario": "10:00",
+      "publicar_em": "2026-11-07T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do fim de semana: marcação a mercado",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-73_marcacao-a-mercado.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-07/MANHA/STORY-73_marcacao-a-mercado.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "data": "2026-11-07",
+      "dia": 25,
+      "dia_semana": "Sábado",
+      "horario": "12:00",
+      "publicar_em": "2026-11-07T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Glossário do investidor: 8 termos",
+      "legenda": "Salva esse glossário para consultar sempre que bater a dúvida 📌\n\nTicker: o código do ativo na Bolsa (ex.: um final 3 é ação ordinária, 4 é preferencial, 11 costuma ser FII, ETF ou unit).\n\nLiquidez: a rapidez com que um investimento vira dinheiro na sua conta.\n\nDividend yield (DY): quanto o ativo pagou de proventos nos últimos 12 meses em relação ao preço.\n\nP/VP: preço da cota dividido pelo valor patrimonial. Muito usado em FIIs.\n\nBenchmark: a régua de comparação. CDI para renda fixa, Ibovespa para ações, IFIX para FIIs.\n\nVolatilidade: o quanto o preço sobe e desce no caminho.\n\nProvento: o que a empresa ou o fundo distribui para você, como dividendos, JCP e rendimentos.\n\nCustódia: onde os seus ativos ficam registrados e guardados.\n\nQual termo você quer ver explicado com mais calma? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#glossario #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-74_glossario_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-74_glossario_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-74_glossario_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-74_glossario_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-74_glossario_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-74_glossario_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "data": "2026-11-07",
+      "dia": 25,
+      "dia_semana": "Sábado",
+      "horario": "18:00",
+      "publicar_em": "2026-11-07T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "4 sinais de que sua carteira precisa de atenção",
+      "legenda": "4 sinais de que a sua carteira está pedindo atenção 🚨\n\n1. Você não sabe dizer quanto tem investido, somando tudo\n2. Um único ativo pesa demais na carteira\n3. Você nunca comparou a sua rentabilidade com o CDI\n4. Os aportes vão para onde parece mais interessante no dia, sem critério\n\nSe marcou dois ou mais, calma: não precisa revolucionar nada. Um check-up de cinco minutos por mês, olhando patrimônio, rentabilidade, proventos e alocação, já muda o jogo.\n\nQuantos desses você marcou? 👇\n\n#carteiraemdia #checkup #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-75_4-sinais.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-25_2026-11-07/TARDE/REELS-75_4-sinais.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "data": "2026-11-08",
+      "dia": 26,
+      "dia_semana": "Domingo",
+      "horario": "10:00",
+      "publicar_em": "2026-11-08T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "No app: simular aporte",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-76_app-simular-aporte.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/MANHA/STORY-76_app-simular-aporte.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "data": "2026-11-08",
+      "dia": 26,
+      "dia_semana": "Domingo",
+      "horario": "12:00",
+      "publicar_em": "2026-11-08T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Alocação atual x ideal",
+      "legenda": "Toda carteira tem duas versões: a que você tem e a que você planejou.\n\nCom o tempo, elas se afastam. Uma classe sobe mais que a outra, um aporte vai para onde estava mais fácil, e quando você olha, a carteira que devia ser 40% ações virou 55%.\n\nNa tela de alocação da Carteira em Dia, as duas versões ficam lado a lado: o gráfico da alocação atual e o da alocação ideal, com as metas que você mesmo configura para cada classe (ações, FIIs, renda fixa, Tesouro, exterior, cripto).\n\nCom isso, a pergunta \"onde coloco o próximo aporte?\" fica bem mais fácil: muitas vezes, a resposta é na classe que está abaixo da meta.\n\nAs metas são suas. O app só mostra o caminho.\n\nVocê já definiu a sua alocação ideal? 👇\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#alocacaodeativos #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-77_atual-x-ideal.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/MANHA/ESTATICO-77_atual-x-ideal.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "data": "2026-11-08",
+      "dia": 26,
+      "dia_semana": "Domingo",
+      "horario": "18:00",
+      "publicar_em": "2026-11-08T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Com o que comparar sua carteira?",
+      "legenda": "Sua carteira rendeu 10% no ano. Foi bom? Só dá para responder comparando com alguma coisa.\n\nEssa \"alguma coisa\" é o benchmark, a régua de comparação. E cada tipo de investimento tem a sua:\n\n• Renda fixa pós-fixada → CDI\n• Proteção contra a inflação → IPCA\n• Ações brasileiras → Ibovespa\n• Empresas menores → SMLL\n• Fundos imobiliários → IFIX\n• Ações pagadoras de dividendos → IDIV\n\nO cuidado é não usar a régua errada no prazo errado. Comparar uma carteira de ações com o CDI em um único mês quase sempre engana, para cima ou para baixo. Renda variável pede prazos maiores para ser avaliada.\n\nUma boa prática: comparar cada parte da carteira com a sua régua e a carteira inteira com um objetivo seu, como IPCA mais uma taxa.\n\nNa Carteira em Dia, o gráfico de rentabilidade compara a sua carteira com CDI, IPCA, Ibovespa, SMLL, IDIV, IFIX e IVVB11.\n\nCom qual índice você compara a sua carteira? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#benchmark #rentabilidade #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-78_benchmark_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-78_benchmark_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-78_benchmark_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-78_benchmark_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-78_benchmark_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-78_benchmark_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "data": "2026-11-09",
+      "dia": 27,
+      "dia_semana": "Segunda",
+      "horario": "10:00",
+      "publicar_em": "2026-11-09T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: aporte",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-79_aporte.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-27_2026-11-09/MANHA/STORY-79_aporte.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "data": "2026-11-09",
+      "dia": 27,
+      "dia_semana": "Segunda",
+      "horario": "12:00",
+      "publicar_em": "2026-11-09T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "R$ 1.000 hoje, e daqui a 20 anos?",
+      "legenda": "R$ 1.000 guardados na gaveta hoje. Quanto eles valem daqui a 20 anos? 💸\n\nCom uma inflação de 5% ao ano, em 20 anos esses R$ 1.000 vão comprar o mesmo que R$ 377 compram hoje. A nota continua igual, mas o que ela compra encolhe ano a ano.\n\nÉ por isso que o primeiro trabalho de qualquer investimento é empatar com a inflação. Só o que vem acima disso é crescimento de verdade.\n\nNa Carteira em Dia, você compara a rentabilidade da sua carteira com o IPCA e vê se está ganhando dessa corrida.\n\nExemplo ilustrativo, com inflação constante de 5% ao ano. Conteúdo educativo. Não é recomendação de investimento.\n\n#inflacao #ipca #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-80_inflacao-1000.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-27_2026-11-09/MANHA/REELS-80_inflacao-1000.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "data": "2026-11-09",
+      "dia": 27,
+      "dia_semana": "Segunda",
+      "horario": "18:00",
+      "publicar_em": "2026-11-09T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Não existe investimento perfeito",
+      "legenda": "Seguro, com resgate na hora e rendendo muito. Se alguém te oferecer isso, desconfie.\n\nTodo investimento equilibra três características:\n🔒 Segurança: a chance de não perder dinheiro\n💧 Liquidez: a rapidez para transformar em dinheiro\n📈 Rentabilidade: o quanto pode render\n\nDá para ter muito de duas, mas quase sempre se abre mão da terceira. O Tesouro Selic é seguro e líquido, mas não rende como uma ação pode render no longo prazo. Uma ação pode render mais, mas oscila e não garante nada. Um título de prazo longo pode pagar mais, mas prende o dinheiro.\n\nPor isso a pergunta certa não é \"qual o melhor investimento?\". É \"qual o melhor investimento para esse objetivo?\". A reserva pede segurança e liquidez. O longo prazo aceita abrir mão de liquidez.\n\nSalva para lembrar na próxima \"oportunidade imperdível\" 📌\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#educacaofinanceira #golpe #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-81_investimento-perfeito.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-27_2026-11-09/TARDE/ESTATICO-81_investimento-perfeito.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "data": "2026-11-10",
+      "dia": 28,
+      "dia_semana": "Terça",
+      "horario": "10:00",
+      "publicar_em": "2026-11-10T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: preço médio",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-82_preco-medio.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-28_2026-11-10/MANHA/STORY-82_preco-medio.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "data": "2026-11-10",
+      "dia": 28,
+      "dia_semana": "Terça",
+      "horario": "12:00",
+      "publicar_em": "2026-11-10T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Sua alocação ideal em 4 passos",
+      "legenda": "Muita gente começa a investir pelo \"qual ativo comprar?\". Mas a pergunta que mais influencia o resultado vem antes: quanto vai em cada classe?\n\nUm caminho em 4 passos:\n\n1. Objetivos: separe o dinheiro da reserva, dos objetivos de curto prazo e do longo prazo. Cada um pede um tipo de investimento diferente.\n\n2. Perfil: quanto de oscilação você aguenta sem perder o sono? Seja honesto, porque é na queda que isso aparece.\n\n3. Percentuais: defina quanto vai em cada classe. Por exemplo, 40% renda fixa, 35% ações, 15% FIIs e 10% exterior (números só ilustrativos, cada pessoa tem os seus).\n\n4. Acompanhe: registre as metas e compare com o que você tem hoje. Os aportes são a forma mais simples de ir ajustando.\n\nNa Carteira em Dia, você configura essas metas na tela de Alocação e vê lado a lado a carteira atual e a ideal.\n\nVocê já tem uma alocação definida? 👇\n\nPercentuais ilustrativos. Conteúdo educativo. Não é recomendação de investimento.\n\n#alocacaodeativos #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-83_alocacao-ideal_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-83_alocacao-ideal_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-83_alocacao-ideal_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-83_alocacao-ideal_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-83_alocacao-ideal_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-83_alocacao-ideal_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "data": "2026-11-10",
+      "dia": 28,
+      "dia_semana": "Terça",
+      "horario": "18:00",
+      "publicar_em": "2026-11-10T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: lançamentos, histórico e exportação",
+      "legenda": "Preço médio, imposto, rentabilidade: tudo depende de um histórico de operações bem feito 📒\n\nNa Carteira em Dia:\n\n• Você lança compras e vendas em segundos: tipo de ativo, código, data, quantidade, preço e corretora\n• Todas as operações ficam num histórico só, com filtros por tipo e por fonte\n• E dá para exportar tudo em Excel, CSV ou PDF quando precisar\n\nNada de caçar nota de corretagem no fim do ano.\n\nVocê guarda o histórico das suas operações? 👇\n\n#organizacaofinanceira #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-84_historico.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-28_2026-11-10/TARDE/REELS-84_historico.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "data": "2026-11-11",
+      "dia": 29,
+      "dia_semana": "Quarta",
+      "horario": "10:00",
+      "publicar_em": "2026-11-11T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Pergunta: o que você quer aprender agora?",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-85_qual-tema.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/MANHA/STORY-85_qual-tema.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "data": "2026-11-11",
+      "dia": 29,
+      "dia_semana": "Quarta",
+      "horario": "12:00",
+      "publicar_em": "2026-11-11T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Pergunta da semana: qual seu maior desafio?",
+      "legenda": "Pergunta da semana, e queremos ouvir de verdade 👇\n\nHoje, qual é o seu maior desafio com investimentos?\n\n1️⃣ Começar a investir\n2️⃣ Organizar o que eu já tenho\n3️⃣ Saber se estou indo bem\n4️⃣ Decidir onde colocar o próximo aporte\n\nResponde só com o número aqui nos comentários (ou conta a sua história, se quiser). As respostas vão guiar os próximos conteúdos daqui.\n\nE se a sua resposta for 2, 3 ou 4, a Carteira em Dia foi feita pensando em você. Link na bio.\n\n#carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-86_maior-desafio.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/MANHA/ESTATICO-86_maior-desafio.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "data": "2026-11-11",
+      "dia": 29,
+      "dia_semana": "Quarta",
+      "horario": "18:00",
+      "publicar_em": "2026-11-11T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Checklist mensal da carteira",
+      "legenda": "Você não precisa olhar a carteira todo dia. Mas uma vez por mês faz toda a diferença. Um checklist de cinco minutos:\n\n✅ Patrimônio: quanto você tem hoje, somando corretoras, bancos e Tesouro\n✅ Rentabilidade: quanto rendeu no mês e no ano, comparado com o CDI\n✅ Proventos: o que caiu na conta e o que ainda está a receber\n✅ Alocação: a carteira atual está perto da ideal? Alguma classe fugiu da meta?\n✅ Próximo aporte: para onde vai o dinheiro novo, segundo as suas metas\n\nEsse hábito evita duas armadilhas: esquecer a carteira por um ano inteiro e ficar olhando a cotação de hora em hora.\n\nNa Carteira em Dia, os cinco itens estão no painel e nas telas de rentabilidade, proventos, alocação e simulador de aporte.\n\nSalva e programa um lembrete no primeiro dia útil do mês 📌\n\n#rotinafinanceira #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-87_checklist-mensal_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-87_checklist-mensal_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-87_checklist-mensal_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-87_checklist-mensal_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-87_checklist-mensal_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-87_checklist-mensal_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-06.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 7,
+          "arquivo": "CARROSSEL-87_checklist-mensal_slide-07.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-07.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "data": "2026-11-12",
+      "dia": 30,
+      "dia_semana": "Quinta",
+      "horario": "10:00",
+      "publicar_em": "2026-11-12T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "30 dias de conteúdo: obrigado",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-88_um-mes.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-30_2026-11-12/MANHA/STORY-88_um-mes.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "data": "2026-11-12",
+      "dia": 30,
+      "dia_semana": "Quinta",
+      "horario": "12:00",
+      "publicar_em": "2026-11-12T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "Antes do próximo aporte, confira isto",
+      "legenda": "Caiu o salário e bateu a vontade de investir? Antes de clicar em comprar, quatro perguntas rápidas ✅\n\n1. A reserva de emergência está completa?\n2. Qual classe da carteira está mais abaixo da meta?\n3. O ativo que você quer comprar passa nos seus critérios?\n4. Você entende os custos e os impostos envolvidos?\n\nRespondeu as quatro? Agora o aporte tem critério, não impulso.\n\nNa Carteira em Dia, o simulador de aporte divide o valor que você digitar de acordo com as metas de alocação que você definiu. E dá para avaliar cada ativo com as suas próprias perguntas.\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#aporte #investir #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-89_antes-do-aporte.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-30_2026-11-12/MANHA/REELS-89_antes-do-aporte.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "data": "2026-11-12",
+      "dia": 30,
+      "dia_semana": "Quinta",
+      "horario": "18:00",
+      "publicar_em": "2026-11-12T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Rentabilidade do jeito certo",
+      "legenda": "\"Minha carteira rendeu 2% este mês.\" Isso é bom ou ruim? Depende de com o que você compara.\n\nNa tela de rentabilidade da Carteira em Dia, três números aparecem logo de cara:\n\n• Total no período: quanto a carteira rendeu desde a data que você escolher (6 meses, 1 ano, 2 anos, 10 anos...)\n• Últimos 12 meses: o retrato do último ano\n• Último mês: o curto prazo, que naturalmente oscila mais\n\nE o mais importante: cada um vem com a comparação com o CDI do mesmo período, dizendo quanto a carteira ficou acima ou abaixo dele.\n\nLogo abaixo, o gráfico de rentabilidade acumulada coloca sua carteira ao lado de CDI, IPCA, Ibovespa, SMLL, IDIV, IFIX e IVVB11. E o mapa de retornos mostra mês a mês, ano a ano.\n\nVocê costuma comparar sua rentabilidade com algum índice? 👇\n\n#rentabilidade #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-90_rentabilidade-do-jeito-certo.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-30_2026-11-12/TARDE/ESTATICO-90_rentabilidade-do-jeito-certo.jpg",
+          "url_publica": null
+        }
+      ]
+    }
+  ]
+}
