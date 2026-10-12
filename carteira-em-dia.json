@@ -2,11 +2,11 @@
   "projeto": "Carteira em Dia · Instagram",
   "conta_instagram": "carteiraemdia.com.br",
   "periodo": {
-    "inicio": "2026-10-14",
-    "fim": "2026-11-12"
+    "inicio": "2026-10-12",
+    "fim": "2026-11-10"
   },
   "fuso": "America/Sao_Paulo",
-  "gerado_em": "2026-10-11T21:35:19-03:00",
+  "gerado_em": "2026-10-12T01:25:03-03:00",
   "horarios": {
     "story": "10:00",
     "feed_manha": "12:00",
@@ -16,11 +16,11 @@
   "posts": [
     {
       "id": "01",
-      "data": "2026-10-14",
+      "data": "2026-10-12",
       "dia": 1,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "10:00",
-      "publicar_em": "2026-10-14T10:00:00-03:00",
+      "publicar_em": "2026-10-12T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -34,18 +34,18 @@
           "ordem": 1,
           "arquivo": "STORY-01_boas-vindas.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-01_2026-10-14/MANHA/STORY-01_boas-vindas.jpg",
+          "caminho_post": "Dia-01_2026-10-12/MANHA/STORY-01_boas-vindas.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "02",
-      "data": "2026-10-14",
+      "data": "2026-10-12",
       "dia": 1,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "12:00",
-      "publicar_em": "2026-10-14T12:00:00-03:00",
+      "publicar_em": "2026-10-12T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -59,53 +59,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-02_juros-compostos_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-01.jpg",
+          "caminho_post": "Dia-01_2026-10-12/MANHA/CARROSSEL-02_juros-compostos_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-02_juros-compostos_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-02.jpg",
+          "caminho_post": "Dia-01_2026-10-12/MANHA/CARROSSEL-02_juros-compostos_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-02_juros-compostos_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-03.jpg",
+          "caminho_post": "Dia-01_2026-10-12/MANHA/CARROSSEL-02_juros-compostos_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-02_juros-compostos_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-04.jpg",
+          "caminho_post": "Dia-01_2026-10-12/MANHA/CARROSSEL-02_juros-compostos_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-02_juros-compostos_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-05.jpg",
+          "caminho_post": "Dia-01_2026-10-12/MANHA/CARROSSEL-02_juros-compostos_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-02_juros-compostos_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-01_2026-10-14/MANHA/CARROSSEL-02_juros-compostos_slide-06.jpg",
+          "caminho_post": "Dia-01_2026-10-12/MANHA/CARROSSEL-02_juros-compostos_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "03",
-      "data": "2026-10-14",
+      "data": "2026-10-12",
       "dia": 1,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "18:00",
-      "publicar_em": "2026-10-14T18:00:00-03:00",
+      "publicar_em": "2026-10-12T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -119,18 +119,18 @@
           "ordem": 1,
           "arquivo": "REELS-03_tour.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-01_2026-10-14/TARDE/REELS-03_tour.mp4",
+          "caminho_post": "Dia-01_2026-10-12/TARDE/REELS-03_tour.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "04",
-      "data": "2026-10-15",
+      "data": "2026-10-13",
       "dia": 2,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "10:00",
-      "publicar_em": "2026-10-15T10:00:00-03:00",
+      "publicar_em": "2026-10-13T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -144,18 +144,18 @@
           "ordem": 1,
           "arquivo": "STORY-04_cdi.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/MANHA/STORY-04_cdi.jpg",
+          "caminho_post": "Dia-02_2026-10-13/MANHA/STORY-04_cdi.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "05",
-      "data": "2026-10-15",
+      "data": "2026-10-13",
       "dia": 2,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "12:00",
-      "publicar_em": "2026-10-15T12:00:00-03:00",
+      "publicar_em": "2026-10-13T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -169,18 +169,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-05_manifesto.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/MANHA/ESTATICO-05_manifesto.jpg",
+          "caminho_post": "Dia-02_2026-10-13/MANHA/ESTATICO-05_manifesto.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "06",
-      "data": "2026-10-15",
+      "data": "2026-10-13",
       "dia": 2,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "18:00",
-      "publicar_em": "2026-10-15T18:00:00-03:00",
+      "publicar_em": "2026-10-13T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -194,53 +194,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-06_cdi-x-selic_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-01.jpg",
+          "caminho_post": "Dia-02_2026-10-13/TARDE/CARROSSEL-06_cdi-x-selic_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-06_cdi-x-selic_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-02.jpg",
+          "caminho_post": "Dia-02_2026-10-13/TARDE/CARROSSEL-06_cdi-x-selic_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-06_cdi-x-selic_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-03.jpg",
+          "caminho_post": "Dia-02_2026-10-13/TARDE/CARROSSEL-06_cdi-x-selic_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-06_cdi-x-selic_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-04.jpg",
+          "caminho_post": "Dia-02_2026-10-13/TARDE/CARROSSEL-06_cdi-x-selic_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-06_cdi-x-selic_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-05.jpg",
+          "caminho_post": "Dia-02_2026-10-13/TARDE/CARROSSEL-06_cdi-x-selic_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-06_cdi-x-selic_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-02_2026-10-15/TARDE/CARROSSEL-06_cdi-x-selic_slide-06.jpg",
+          "caminho_post": "Dia-02_2026-10-13/TARDE/CARROSSEL-06_cdi-x-selic_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "07",
-      "data": "2026-10-16",
+      "data": "2026-10-14",
       "dia": 3,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "10:00",
-      "publicar_em": "2026-10-16T10:00:00-03:00",
+      "publicar_em": "2026-10-14T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -254,18 +254,18 @@
           "ordem": 1,
           "arquivo": "STORY-07_reserva-nao-e-investimento.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-03_2026-10-16/MANHA/STORY-07_reserva-nao-e-investimento.jpg",
+          "caminho_post": "Dia-03_2026-10-14/MANHA/STORY-07_reserva-nao-e-investimento.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "08",
-      "data": "2026-10-16",
+      "data": "2026-10-14",
       "dia": 3,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "12:00",
-      "publicar_em": "2026-10-16T12:00:00-03:00",
+      "publicar_em": "2026-10-14T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -279,18 +279,18 @@
           "ordem": 1,
           "arquivo": "REELS-08_juros-compostos-15s.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-03_2026-10-16/MANHA/REELS-08_juros-compostos-15s.mp4",
+          "caminho_post": "Dia-03_2026-10-14/MANHA/REELS-08_juros-compostos-15s.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "09",
-      "data": "2026-10-16",
+      "data": "2026-10-14",
       "dia": 3,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "18:00",
-      "publicar_em": "2026-10-16T18:00:00-03:00",
+      "publicar_em": "2026-10-14T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -304,18 +304,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-09_reserva-de-emergencia.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-03_2026-10-16/TARDE/ESTATICO-09_reserva-de-emergencia.jpg",
+          "caminho_post": "Dia-03_2026-10-14/TARDE/ESTATICO-09_reserva-de-emergencia.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "10",
-      "data": "2026-10-17",
+      "data": "2026-10-15",
       "dia": 4,
-      "dia_semana": "Sábado",
+      "dia_semana": "Quinta",
       "horario": "10:00",
-      "publicar_em": "2026-10-17T10:00:00-03:00",
+      "publicar_em": "2026-10-15T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -329,18 +329,18 @@
           "ordem": 1,
           "arquivo": "STORY-10_ipca.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-04_2026-10-17/MANHA/STORY-10_ipca.jpg",
+          "caminho_post": "Dia-04_2026-10-15/MANHA/STORY-10_ipca.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "11",
-      "data": "2026-10-17",
+      "data": "2026-10-15",
       "dia": 4,
-      "dia_semana": "Sábado",
+      "dia_semana": "Quinta",
       "horario": "12:00",
-      "publicar_em": "2026-10-17T12:00:00-03:00",
+      "publicar_em": "2026-10-15T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -354,53 +354,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-01.jpg",
+          "caminho_post": "Dia-04_2026-10-15/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-02.jpg",
+          "caminho_post": "Dia-04_2026-10-15/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-03.jpg",
+          "caminho_post": "Dia-04_2026-10-15/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-04.jpg",
+          "caminho_post": "Dia-04_2026-10-15/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-05.jpg",
+          "caminho_post": "Dia-04_2026-10-15/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-11_prefixado-pos-ipca_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-04_2026-10-17/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-06.jpg",
+          "caminho_post": "Dia-04_2026-10-15/MANHA/CARROSSEL-11_prefixado-pos-ipca_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "12",
-      "data": "2026-10-17",
+      "data": "2026-10-15",
       "dia": 4,
-      "dia_semana": "Sábado",
+      "dia_semana": "Quinta",
       "horario": "18:00",
-      "publicar_em": "2026-10-17T18:00:00-03:00",
+      "publicar_em": "2026-10-15T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -414,18 +414,18 @@
           "ordem": 1,
           "arquivo": "REELS-12_pov-5-apps.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-04_2026-10-17/TARDE/REELS-12_pov-5-apps.mp4",
+          "caminho_post": "Dia-04_2026-10-15/TARDE/REELS-12_pov-5-apps.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "13",
-      "data": "2026-10-18",
+      "data": "2026-10-16",
       "dia": 5,
-      "dia_semana": "Domingo",
+      "dia_semana": "Sexta",
       "horario": "10:00",
-      "publicar_em": "2026-10-18T10:00:00-03:00",
+      "publicar_em": "2026-10-16T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -439,18 +439,18 @@
           "ordem": 1,
           "arquivo": "STORY-13_cdb.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/MANHA/STORY-13_cdb.jpg",
+          "caminho_post": "Dia-05_2026-10-16/MANHA/STORY-13_cdb.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "14",
-      "data": "2026-10-18",
+      "data": "2026-10-16",
       "dia": 5,
-      "dia_semana": "Domingo",
+      "dia_semana": "Sexta",
       "horario": "12:00",
-      "publicar_em": "2026-10-18T12:00:00-03:00",
+      "publicar_em": "2026-10-16T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -464,18 +464,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-14_volatilidade-nao-e-prejuizo.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/MANHA/ESTATICO-14_volatilidade-nao-e-prejuizo.jpg",
+          "caminho_post": "Dia-05_2026-10-16/MANHA/ESTATICO-14_volatilidade-nao-e-prejuizo.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "15",
-      "data": "2026-10-18",
+      "data": "2026-10-16",
       "dia": 5,
-      "dia_semana": "Domingo",
+      "dia_semana": "Sexta",
       "horario": "18:00",
-      "publicar_em": "2026-10-18T18:00:00-03:00",
+      "publicar_em": "2026-10-16T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -489,53 +489,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-15_fgc_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-01.jpg",
+          "caminho_post": "Dia-05_2026-10-16/TARDE/CARROSSEL-15_fgc_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-15_fgc_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-02.jpg",
+          "caminho_post": "Dia-05_2026-10-16/TARDE/CARROSSEL-15_fgc_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-15_fgc_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-03.jpg",
+          "caminho_post": "Dia-05_2026-10-16/TARDE/CARROSSEL-15_fgc_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-15_fgc_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-04.jpg",
+          "caminho_post": "Dia-05_2026-10-16/TARDE/CARROSSEL-15_fgc_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-15_fgc_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-05.jpg",
+          "caminho_post": "Dia-05_2026-10-16/TARDE/CARROSSEL-15_fgc_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-15_fgc_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-05_2026-10-18/TARDE/CARROSSEL-15_fgc_slide-06.jpg",
+          "caminho_post": "Dia-05_2026-10-16/TARDE/CARROSSEL-15_fgc_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "16",
-      "data": "2026-10-19",
+      "data": "2026-10-17",
       "dia": 6,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "10:00",
-      "publicar_em": "2026-10-19T10:00:00-03:00",
+      "publicar_em": "2026-10-17T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -549,18 +549,18 @@
           "ordem": 1,
           "arquivo": "STORY-16_app-alocacao.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-06_2026-10-19/MANHA/STORY-16_app-alocacao.jpg",
+          "caminho_post": "Dia-06_2026-10-17/MANHA/STORY-16_app-alocacao.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "17",
-      "data": "2026-10-19",
+      "data": "2026-10-17",
       "dia": 6,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "12:00",
-      "publicar_em": "2026-10-19T12:00:00-03:00",
+      "publicar_em": "2026-10-17T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -574,18 +574,18 @@
           "ordem": 1,
           "arquivo": "REELS-17_alocacao.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-06_2026-10-19/MANHA/REELS-17_alocacao.mp4",
+          "caminho_post": "Dia-06_2026-10-17/MANHA/REELS-17_alocacao.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "18",
-      "data": "2026-10-19",
+      "data": "2026-10-17",
       "dia": 6,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "18:00",
-      "publicar_em": "2026-10-19T18:00:00-03:00",
+      "publicar_em": "2026-10-17T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -599,18 +599,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-18_data-com-e-pagamento.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-06_2026-10-19/TARDE/ESTATICO-18_data-com-e-pagamento.jpg",
+          "caminho_post": "Dia-06_2026-10-17/TARDE/ESTATICO-18_data-com-e-pagamento.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "19",
-      "data": "2026-10-20",
+      "data": "2026-10-18",
       "dia": 7,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "10:00",
-      "publicar_em": "2026-10-20T10:00:00-03:00",
+      "publicar_em": "2026-10-18T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -624,18 +624,18 @@
           "ordem": 1,
           "arquivo": "STORY-19_liquidez-diaria.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-07_2026-10-20/MANHA/STORY-19_liquidez-diaria.jpg",
+          "caminho_post": "Dia-07_2026-10-18/MANHA/STORY-19_liquidez-diaria.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "20",
-      "data": "2026-10-20",
+      "data": "2026-10-18",
       "dia": 7,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "12:00",
-      "publicar_em": "2026-10-20T12:00:00-03:00",
+      "publicar_em": "2026-10-18T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -649,53 +649,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-20_lci-lca_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-01.jpg",
+          "caminho_post": "Dia-07_2026-10-18/MANHA/CARROSSEL-20_lci-lca_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-20_lci-lca_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-02.jpg",
+          "caminho_post": "Dia-07_2026-10-18/MANHA/CARROSSEL-20_lci-lca_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-20_lci-lca_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-03.jpg",
+          "caminho_post": "Dia-07_2026-10-18/MANHA/CARROSSEL-20_lci-lca_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-20_lci-lca_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-04.jpg",
+          "caminho_post": "Dia-07_2026-10-18/MANHA/CARROSSEL-20_lci-lca_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-20_lci-lca_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-05.jpg",
+          "caminho_post": "Dia-07_2026-10-18/MANHA/CARROSSEL-20_lci-lca_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-20_lci-lca_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-07_2026-10-20/MANHA/CARROSSEL-20_lci-lca_slide-06.jpg",
+          "caminho_post": "Dia-07_2026-10-18/MANHA/CARROSSEL-20_lci-lca_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "21",
-      "data": "2026-10-20",
+      "data": "2026-10-18",
       "dia": 7,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "18:00",
-      "publicar_em": "2026-10-20T18:00:00-03:00",
+      "publicar_em": "2026-10-18T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -709,18 +709,18 @@
           "ordem": 1,
           "arquivo": "REELS-21_cdi-x-selic-15s.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-07_2026-10-20/TARDE/REELS-21_cdi-x-selic-15s.mp4",
+          "caminho_post": "Dia-07_2026-10-18/TARDE/REELS-21_cdi-x-selic-15s.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "22",
-      "data": "2026-10-21",
+      "data": "2026-10-19",
       "dia": 8,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "10:00",
-      "publicar_em": "2026-10-21T10:00:00-03:00",
+      "publicar_em": "2026-10-19T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -734,18 +734,18 @@
           "ordem": 1,
           "arquivo": "STORY-22_tesouro-selic.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/MANHA/STORY-22_tesouro-selic.jpg",
+          "caminho_post": "Dia-08_2026-10-19/MANHA/STORY-22_tesouro-selic.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "23",
-      "data": "2026-10-21",
+      "data": "2026-10-19",
       "dia": 8,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "12:00",
-      "publicar_em": "2026-10-21T12:00:00-03:00",
+      "publicar_em": "2026-10-19T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -759,18 +759,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-23_ticker.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/MANHA/ESTATICO-23_ticker.jpg",
+          "caminho_post": "Dia-08_2026-10-19/MANHA/ESTATICO-23_ticker.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "24",
-      "data": "2026-10-21",
+      "data": "2026-10-19",
       "dia": 8,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "18:00",
-      "publicar_em": "2026-10-21T18:00:00-03:00",
+      "publicar_em": "2026-10-19T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -784,60 +784,60 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-24_tesouro-direto_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-01.jpg",
+          "caminho_post": "Dia-08_2026-10-19/TARDE/CARROSSEL-24_tesouro-direto_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-24_tesouro-direto_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-02.jpg",
+          "caminho_post": "Dia-08_2026-10-19/TARDE/CARROSSEL-24_tesouro-direto_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-24_tesouro-direto_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-03.jpg",
+          "caminho_post": "Dia-08_2026-10-19/TARDE/CARROSSEL-24_tesouro-direto_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-24_tesouro-direto_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-04.jpg",
+          "caminho_post": "Dia-08_2026-10-19/TARDE/CARROSSEL-24_tesouro-direto_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-24_tesouro-direto_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-05.jpg",
+          "caminho_post": "Dia-08_2026-10-19/TARDE/CARROSSEL-24_tesouro-direto_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-24_tesouro-direto_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-06.jpg",
+          "caminho_post": "Dia-08_2026-10-19/TARDE/CARROSSEL-24_tesouro-direto_slide-06.jpg",
           "url_publica": null
         },
         {
           "ordem": 7,
           "arquivo": "CARROSSEL-24_tesouro-direto_slide-07.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-08_2026-10-21/TARDE/CARROSSEL-24_tesouro-direto_slide-07.jpg",
+          "caminho_post": "Dia-08_2026-10-19/TARDE/CARROSSEL-24_tesouro-direto_slide-07.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "25",
-      "data": "2026-10-22",
+      "data": "2026-10-20",
       "dia": 9,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "10:00",
-      "publicar_em": "2026-10-22T10:00:00-03:00",
+      "publicar_em": "2026-10-20T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -851,18 +851,18 @@
           "ordem": 1,
           "arquivo": "STORY-25_app-proventos.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-09_2026-10-22/MANHA/STORY-25_app-proventos.jpg",
+          "caminho_post": "Dia-09_2026-10-20/MANHA/STORY-25_app-proventos.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "26",
-      "data": "2026-10-22",
+      "data": "2026-10-20",
       "dia": 9,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "12:00",
-      "publicar_em": "2026-10-22T12:00:00-03:00",
+      "publicar_em": "2026-10-20T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -876,18 +876,18 @@
           "ordem": 1,
           "arquivo": "REELS-26_proventos.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-09_2026-10-22/MANHA/REELS-26_proventos.mp4",
+          "caminho_post": "Dia-09_2026-10-20/MANHA/REELS-26_proventos.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "27",
-      "data": "2026-10-22",
+      "data": "2026-10-20",
       "dia": 9,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "18:00",
-      "publicar_em": "2026-10-22T18:00:00-03:00",
+      "publicar_em": "2026-10-20T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -901,18 +901,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-27_dividend-yield.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-09_2026-10-22/TARDE/ESTATICO-27_dividend-yield.jpg",
+          "caminho_post": "Dia-09_2026-10-20/TARDE/ESTATICO-27_dividend-yield.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "28",
-      "data": "2026-10-23",
+      "data": "2026-10-21",
       "dia": 10,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "10:00",
-      "publicar_em": "2026-10-23T10:00:00-03:00",
+      "publicar_em": "2026-10-21T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -926,18 +926,18 @@
           "ordem": 1,
           "arquivo": "STORY-28_provento.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-10_2026-10-23/MANHA/STORY-28_provento.jpg",
+          "caminho_post": "Dia-10_2026-10-21/MANHA/STORY-28_provento.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "29",
-      "data": "2026-10-23",
+      "data": "2026-10-21",
       "dia": 10,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "12:00",
-      "publicar_em": "2026-10-23T12:00:00-03:00",
+      "publicar_em": "2026-10-21T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -951,53 +951,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-01.jpg",
+          "caminho_post": "Dia-10_2026-10-21/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-02.jpg",
+          "caminho_post": "Dia-10_2026-10-21/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-03.jpg",
+          "caminho_post": "Dia-10_2026-10-21/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-04.jpg",
+          "caminho_post": "Dia-10_2026-10-21/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-05.jpg",
+          "caminho_post": "Dia-10_2026-10-21/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-29_jcp-x-dividendos_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-10_2026-10-23/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-06.jpg",
+          "caminho_post": "Dia-10_2026-10-21/MANHA/CARROSSEL-29_jcp-x-dividendos_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "30",
-      "data": "2026-10-23",
+      "data": "2026-10-21",
       "dia": 10,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "18:00",
-      "publicar_em": "2026-10-23T18:00:00-03:00",
+      "publicar_em": "2026-10-21T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -1011,18 +1011,18 @@
           "ordem": 1,
           "arquivo": "REELS-30_3-numeros.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-10_2026-10-23/TARDE/REELS-30_3-numeros.mp4",
+          "caminho_post": "Dia-10_2026-10-21/TARDE/REELS-30_3-numeros.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "31",
-      "data": "2026-10-24",
+      "data": "2026-10-22",
       "dia": 11,
-      "dia_semana": "Sábado",
+      "dia_semana": "Quinta",
       "horario": "10:00",
-      "publicar_em": "2026-10-24T10:00:00-03:00",
+      "publicar_em": "2026-10-22T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -1036,18 +1036,18 @@
           "ordem": 1,
           "arquivo": "STORY-31_fii.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/MANHA/STORY-31_fii.jpg",
+          "caminho_post": "Dia-11_2026-10-22/MANHA/STORY-31_fii.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "32",
-      "data": "2026-10-24",
+      "data": "2026-10-22",
       "dia": 11,
-      "dia_semana": "Sábado",
+      "dia_semana": "Quinta",
       "horario": "12:00",
-      "publicar_em": "2026-10-24T12:00:00-03:00",
+      "publicar_em": "2026-10-22T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -1061,18 +1061,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-32_p-vp.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/MANHA/ESTATICO-32_p-vp.jpg",
+          "caminho_post": "Dia-11_2026-10-22/MANHA/ESTATICO-32_p-vp.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "33",
-      "data": "2026-10-24",
+      "data": "2026-10-22",
       "dia": 11,
-      "dia_semana": "Sábado",
+      "dia_semana": "Quinta",
       "horario": "18:00",
-      "publicar_em": "2026-10-24T18:00:00-03:00",
+      "publicar_em": "2026-10-22T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -1086,53 +1086,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-01.jpg",
+          "caminho_post": "Dia-11_2026-10-22/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-02.jpg",
+          "caminho_post": "Dia-11_2026-10-22/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-03.jpg",
+          "caminho_post": "Dia-11_2026-10-22/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-04.jpg",
+          "caminho_post": "Dia-11_2026-10-22/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-05.jpg",
+          "caminho_post": "Dia-11_2026-10-22/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-33_fiis-tijolo-papel_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-11_2026-10-24/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-06.jpg",
+          "caminho_post": "Dia-11_2026-10-22/TARDE/CARROSSEL-33_fiis-tijolo-papel_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "34",
-      "data": "2026-10-25",
+      "data": "2026-10-23",
       "dia": 12,
-      "dia_semana": "Domingo",
+      "dia_semana": "Sexta",
       "horario": "10:00",
-      "publicar_em": "2026-10-25T10:00:00-03:00",
+      "publicar_em": "2026-10-23T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -1146,18 +1146,18 @@
           "ordem": 1,
           "arquivo": "STORY-34_anote-operacoes.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-12_2026-10-25/MANHA/STORY-34_anote-operacoes.jpg",
+          "caminho_post": "Dia-12_2026-10-23/MANHA/STORY-34_anote-operacoes.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "35",
-      "data": "2026-10-25",
+      "data": "2026-10-23",
       "dia": 12,
-      "dia_semana": "Domingo",
+      "dia_semana": "Sexta",
       "horario": "12:00",
-      "publicar_em": "2026-10-25T12:00:00-03:00",
+      "publicar_em": "2026-10-23T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -1171,18 +1171,18 @@
           "ordem": 1,
           "arquivo": "REELS-35_saldo-ou-rendimento.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-12_2026-10-25/MANHA/REELS-35_saldo-ou-rendimento.mp4",
+          "caminho_post": "Dia-12_2026-10-23/MANHA/REELS-35_saldo-ou-rendimento.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "36",
-      "data": "2026-10-25",
+      "data": "2026-10-23",
       "dia": 12,
-      "dia_semana": "Domingo",
+      "dia_semana": "Sexta",
       "horario": "18:00",
-      "publicar_em": "2026-10-25T18:00:00-03:00",
+      "publicar_em": "2026-10-23T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -1196,18 +1196,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-36_taxas.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-12_2026-10-25/TARDE/ESTATICO-36_taxas.jpg",
+          "caminho_post": "Dia-12_2026-10-23/TARDE/ESTATICO-36_taxas.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "37",
-      "data": "2026-10-26",
+      "data": "2026-10-24",
       "dia": 13,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "10:00",
-      "publicar_em": "2026-10-26T10:00:00-03:00",
+      "publicar_em": "2026-10-24T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -1221,18 +1221,18 @@
           "ordem": 1,
           "arquivo": "STORY-37_benchmark.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-13_2026-10-26/MANHA/STORY-37_benchmark.jpg",
+          "caminho_post": "Dia-13_2026-10-24/MANHA/STORY-37_benchmark.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "38",
-      "data": "2026-10-26",
+      "data": "2026-10-24",
       "dia": 13,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "12:00",
-      "publicar_em": "2026-10-26T12:00:00-03:00",
+      "publicar_em": "2026-10-24T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -1246,53 +1246,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-01.jpg",
+          "caminho_post": "Dia-13_2026-10-24/MANHA/CARROSSEL-38_liquidez-d-mais_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-02.jpg",
+          "caminho_post": "Dia-13_2026-10-24/MANHA/CARROSSEL-38_liquidez-d-mais_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-03.jpg",
+          "caminho_post": "Dia-13_2026-10-24/MANHA/CARROSSEL-38_liquidez-d-mais_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-04.jpg",
+          "caminho_post": "Dia-13_2026-10-24/MANHA/CARROSSEL-38_liquidez-d-mais_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-05.jpg",
+          "caminho_post": "Dia-13_2026-10-24/MANHA/CARROSSEL-38_liquidez-d-mais_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-38_liquidez-d-mais_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-13_2026-10-26/MANHA/CARROSSEL-38_liquidez-d-mais_slide-06.jpg",
+          "caminho_post": "Dia-13_2026-10-24/MANHA/CARROSSEL-38_liquidez-d-mais_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "39",
-      "data": "2026-10-26",
+      "data": "2026-10-24",
       "dia": 13,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "18:00",
-      "publicar_em": "2026-10-26T18:00:00-03:00",
+      "publicar_em": "2026-10-24T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -1306,18 +1306,18 @@
           "ordem": 1,
           "arquivo": "REELS-39_rentabilidade.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-13_2026-10-26/TARDE/REELS-39_rentabilidade.mp4",
+          "caminho_post": "Dia-13_2026-10-24/TARDE/REELS-39_rentabilidade.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "40",
-      "data": "2026-10-27",
+      "data": "2026-10-25",
       "dia": 14,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "10:00",
-      "publicar_em": "2026-10-27T10:00:00-03:00",
+      "publicar_em": "2026-10-25T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -1331,18 +1331,18 @@
           "ordem": 1,
           "arquivo": "STORY-40_custodia.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/MANHA/STORY-40_custodia.jpg",
+          "caminho_post": "Dia-14_2026-10-25/MANHA/STORY-40_custodia.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "41",
-      "data": "2026-10-27",
+      "data": "2026-10-25",
       "dia": 14,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "12:00",
-      "publicar_em": "2026-10-27T12:00:00-03:00",
+      "publicar_em": "2026-10-25T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -1356,18 +1356,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-41_saldo-subiu-ou-rendeu.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/MANHA/ESTATICO-41_saldo-subiu-ou-rendeu.jpg",
+          "caminho_post": "Dia-14_2026-10-25/MANHA/ESTATICO-41_saldo-subiu-ou-rendeu.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "42",
-      "data": "2026-10-27",
+      "data": "2026-10-25",
       "dia": 14,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "18:00",
-      "publicar_em": "2026-10-27T18:00:00-03:00",
+      "publicar_em": "2026-10-25T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -1381,53 +1381,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-01.jpg",
+          "caminho_post": "Dia-14_2026-10-25/TARDE/CARROSSEL-42_ir-renda-fixa_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-02.jpg",
+          "caminho_post": "Dia-14_2026-10-25/TARDE/CARROSSEL-42_ir-renda-fixa_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-03.jpg",
+          "caminho_post": "Dia-14_2026-10-25/TARDE/CARROSSEL-42_ir-renda-fixa_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-04.jpg",
+          "caminho_post": "Dia-14_2026-10-25/TARDE/CARROSSEL-42_ir-renda-fixa_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-05.jpg",
+          "caminho_post": "Dia-14_2026-10-25/TARDE/CARROSSEL-42_ir-renda-fixa_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-42_ir-renda-fixa_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-14_2026-10-27/TARDE/CARROSSEL-42_ir-renda-fixa_slide-06.jpg",
+          "caminho_post": "Dia-14_2026-10-25/TARDE/CARROSSEL-42_ir-renda-fixa_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "43",
-      "data": "2026-10-28",
+      "data": "2026-10-26",
       "dia": 15,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "10:00",
-      "publicar_em": "2026-10-28T10:00:00-03:00",
+      "publicar_em": "2026-10-26T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -1441,18 +1441,18 @@
           "ordem": 1,
           "arquivo": "STORY-43_pergunta-rentabilidade.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-15_2026-10-28/MANHA/STORY-43_pergunta-rentabilidade.jpg",
+          "caminho_post": "Dia-15_2026-10-26/MANHA/STORY-43_pergunta-rentabilidade.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "44",
-      "data": "2026-10-28",
+      "data": "2026-10-26",
       "dia": 15,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "12:00",
-      "publicar_em": "2026-10-28T12:00:00-03:00",
+      "publicar_em": "2026-10-26T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -1466,18 +1466,18 @@
           "ordem": 1,
           "arquivo": "REELS-44_liquidez-15s.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-15_2026-10-28/MANHA/REELS-44_liquidez-15s.mp4",
+          "caminho_post": "Dia-15_2026-10-26/MANHA/REELS-44_liquidez-15s.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "45",
-      "data": "2026-10-28",
+      "data": "2026-10-26",
       "dia": 15,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "18:00",
-      "publicar_em": "2026-10-28T18:00:00-03:00",
+      "publicar_em": "2026-10-26T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -1491,18 +1491,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-45_juros-simples-x-compostos.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-15_2026-10-28/TARDE/ESTATICO-45_juros-simples-x-compostos.jpg",
+          "caminho_post": "Dia-15_2026-10-26/TARDE/ESTATICO-45_juros-simples-x-compostos.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "46",
-      "data": "2026-10-29",
+      "data": "2026-10-27",
       "dia": 16,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "10:00",
-      "publicar_em": "2026-10-29T10:00:00-03:00",
+      "publicar_em": "2026-10-27T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -1516,18 +1516,18 @@
           "ordem": 1,
           "arquivo": "STORY-46_iof.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-16_2026-10-29/MANHA/STORY-46_iof.jpg",
+          "caminho_post": "Dia-16_2026-10-27/MANHA/STORY-46_iof.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "47",
-      "data": "2026-10-29",
+      "data": "2026-10-27",
       "dia": 16,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "12:00",
-      "publicar_em": "2026-10-29T12:00:00-03:00",
+      "publicar_em": "2026-10-27T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -1541,53 +1541,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-47_come-cotas_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-01.jpg",
+          "caminho_post": "Dia-16_2026-10-27/MANHA/CARROSSEL-47_come-cotas_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-47_come-cotas_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-02.jpg",
+          "caminho_post": "Dia-16_2026-10-27/MANHA/CARROSSEL-47_come-cotas_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-47_come-cotas_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-03.jpg",
+          "caminho_post": "Dia-16_2026-10-27/MANHA/CARROSSEL-47_come-cotas_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-47_come-cotas_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-04.jpg",
+          "caminho_post": "Dia-16_2026-10-27/MANHA/CARROSSEL-47_come-cotas_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-47_come-cotas_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-05.jpg",
+          "caminho_post": "Dia-16_2026-10-27/MANHA/CARROSSEL-47_come-cotas_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-47_come-cotas_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-16_2026-10-29/MANHA/CARROSSEL-47_come-cotas_slide-06.jpg",
+          "caminho_post": "Dia-16_2026-10-27/MANHA/CARROSSEL-47_come-cotas_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "48",
-      "data": "2026-10-29",
+      "data": "2026-10-27",
       "dia": 16,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "18:00",
-      "publicar_em": "2026-10-29T18:00:00-03:00",
+      "publicar_em": "2026-10-27T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -1601,18 +1601,18 @@
           "ordem": 1,
           "arquivo": "REELS-48_calculadora.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-16_2026-10-29/TARDE/REELS-48_calculadora.mp4",
+          "caminho_post": "Dia-16_2026-10-27/TARDE/REELS-48_calculadora.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "49",
-      "data": "2026-10-30",
+      "data": "2026-10-28",
       "dia": 17,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "10:00",
-      "publicar_em": "2026-10-30T10:00:00-03:00",
+      "publicar_em": "2026-10-28T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -1626,18 +1626,18 @@
           "ordem": 1,
           "arquivo": "STORY-49_taxa-de-administracao.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/MANHA/STORY-49_taxa-de-administracao.jpg",
+          "caminho_post": "Dia-17_2026-10-28/MANHA/STORY-49_taxa-de-administracao.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "50",
-      "data": "2026-10-30",
+      "data": "2026-10-28",
       "dia": 17,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "12:00",
-      "publicar_em": "2026-10-30T12:00:00-03:00",
+      "publicar_em": "2026-10-28T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -1651,18 +1651,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-50_concentracao.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/MANHA/ESTATICO-50_concentracao.jpg",
+          "caminho_post": "Dia-17_2026-10-28/MANHA/ESTATICO-50_concentracao.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "51",
-      "data": "2026-10-30",
+      "data": "2026-10-28",
       "dia": 17,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "18:00",
-      "publicar_em": "2026-10-30T18:00:00-03:00",
+      "publicar_em": "2026-10-28T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -1676,42 +1676,269 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-51_etf_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-01.jpg",
+          "caminho_post": "Dia-17_2026-10-28/TARDE/CARROSSEL-51_etf_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-51_etf_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-02.jpg",
+          "caminho_post": "Dia-17_2026-10-28/TARDE/CARROSSEL-51_etf_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-51_etf_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-03.jpg",
+          "caminho_post": "Dia-17_2026-10-28/TARDE/CARROSSEL-51_etf_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-51_etf_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-04.jpg",
+          "caminho_post": "Dia-17_2026-10-28/TARDE/CARROSSEL-51_etf_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-51_etf_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-05.jpg",
+          "caminho_post": "Dia-17_2026-10-28/TARDE/CARROSSEL-51_etf_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-51_etf_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-17_2026-10-30/TARDE/CARROSSEL-51_etf_slide-06.jpg",
+          "caminho_post": "Dia-17_2026-10-28/TARDE/CARROSSEL-51_etf_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "data": "2026-10-29",
+      "dia": 18,
+      "dia_semana": "Quinta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-29T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: volatilidade",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-58_volatilidade.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/MANHA/STORY-58_volatilidade.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "data": "2026-10-29",
+      "dia": 18,
+      "dia_semana": "Quinta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-29T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Ações x FIIs: o básico",
+      "legenda": "Ações e fundos imobiliários estão lado a lado no home broker, mas são bichos diferentes.\n\nCom ações, você vira sócio de uma empresa. O ganho vem da valorização e dos proventos (dividendos e JCP), que costumam sair em datas variáveis, conforme a política de cada empresa.\n\nCom FIIs, você vira cotista de um fundo que investe no setor imobiliário: galpões, shoppings, escritórios ou títulos ligados a imóveis. Os rendimentos costumam ser distribuídos todo mês.\n\nEm comum: os dois oscilam, os dois dependem do desempenho do negócio e nenhum tem rendimento garantido. O FII que paga bem hoje pode pagar menos amanhã se perder um inquilino, por exemplo.\n\nMuita gente tem os dois na carteira, cada um com um papel.\n\nE você, tem mais ações ou mais FIIs? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#acoes #fundosimobiliarios #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-59_acoes-x-fiis.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/MANHA/ESTATICO-59_acoes-x-fiis.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "data": "2026-10-29",
+      "dia": 18,
+      "dia_semana": "Quinta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-29T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "5 erros de quem está começando a investir",
+      "legenda": "Todo mundo erra no começo. Mas alguns erros são tão comuns que dá para evitar só sabendo que eles existem.\n\n1. Investir sem reserva de emergência. Aí qualquer imprevisto obriga a vender, e quase sempre na hora errada.\n\n2. Escolher pelo que mais rendeu no último ano. Rentabilidade passada não garante rentabilidade futura. O campeão de um ano às vezes é o lanterna do outro.\n\n3. Não saber quanto tem. Com dinheiro em três corretoras e dois bancos, fica difícil enxergar concentrações e riscos.\n\n4. Esquecer taxas e impostos. A rentabilidade que importa é a líquida.\n\n5. Decidir no impulso. Notícia do dia e dica de grupo não são estratégia. Ter critérios definidos antes ajuda a não comprar no topo nem vender no fundo.\n\nQual desses você já cometeu? Pode ser sincero 😅👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#investidoriniciante #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-60_5-erros_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/TARDE/CARROSSEL-60_5-erros_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-60_5-erros_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/TARDE/CARROSSEL-60_5-erros_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-60_5-erros_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/TARDE/CARROSSEL-60_5-erros_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-60_5-erros_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/TARDE/CARROSSEL-60_5-erros_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-60_5-erros_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/TARDE/CARROSSEL-60_5-erros_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-60_5-erros_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/TARDE/CARROSSEL-60_5-erros_slide-06.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 7,
+          "arquivo": "CARROSSEL-60_5-erros_slide-07.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-18_2026-10-29/TARDE/CARROSSEL-60_5-erros_slide-07.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "data": "2026-10-30",
+      "dia": 19,
+      "dia_semana": "Sexta",
+      "horario": "10:00",
+      "publicar_em": "2026-10-30T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "No app: rentabilidade contra o CDI",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-55_app-rentabilidade.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-10-30/MANHA/STORY-55_app-rentabilidade.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "data": "2026-10-30",
+      "dia": 19,
+      "dia_semana": "Sexta",
+      "horario": "12:00",
+      "publicar_em": "2026-10-30T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Rentabilidade nominal x real",
+      "legenda": "Seu investimento rendeu 12% no ano. Você ficou 12% mais rico? Não necessariamente.\n\nRentabilidade nominal é o número do extrato: quanto o dinheiro cresceu em reais.\n\nRentabilidade real é quanto ele cresceu depois de descontar a inflação. É a que mostra se o seu poder de compra aumentou de verdade.\n\nA conta não é só subtrair. Com 12% de rendimento e 5% de inflação, o ganho real é (1,12 ÷ 1,05) − 1, o que dá 6,7%.\n\nE o contrário também vale: um investimento que rendeu 4% num ano em que a inflação foi de 5% deixou você com menos poder de compra, mesmo com o saldo maior.\n\nPor isso, compare sempre os seus resultados com a inflação. Na Carteira em Dia, o IPCA aparece no gráfico de rentabilidade junto com a sua carteira.\n\nFicou claro? Salva para não esquecer 📌\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#rentabilidade #inflacao #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-10-30/MANHA/CARROSSEL-56_nominal-x-real_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-10-30/MANHA/CARROSSEL-56_nominal-x-real_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-10-30/MANHA/CARROSSEL-56_nominal-x-real_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-10-30/MANHA/CARROSSEL-56_nominal-x-real_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-10-30/MANHA/CARROSSEL-56_nominal-x-real_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-56_nominal-x-real_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-19_2026-10-30/MANHA/CARROSSEL-56_nominal-x-real_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "data": "2026-10-30",
+      "dia": 19,
+      "dia_semana": "Sexta",
+      "horario": "18:00",
+      "publicar_em": "2026-10-30T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "No app: simulador de aporte",
+      "legenda": "Caiu dinheiro novo para investir e veio a dúvida: quanto colocar em cada ativo? 🧮\n\nNo simulador de aporte da Carteira em Dia, você digita o valor e o app mostra como ele se divide entre os ativos, de acordo com as metas de alocação que você definiu (e com as notas que você deu para cada ativo no seu checklist).\n\nGostou da divisão? Dá para registrar os lançamentos direto da simulação, sem digitar tudo de novo.\n\nImportante: é uma conta feita com as suas metas e os seus critérios, não uma recomendação de investimento.\n\nComo você decide o próximo aporte hoje? 👇\n\n#aporte #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-57_simular-aporte.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-19_2026-10-30/TARDE/REELS-57_simular-aporte.mp4",
           "url_publica": null
         }
       ]
@@ -1719,7 +1946,7 @@
     {
       "id": "52",
       "data": "2026-10-31",
-      "dia": 18,
+      "dia": 20,
       "dia_semana": "Sábado",
       "horario": "10:00",
       "publicar_em": "2026-10-31T10:00:00-03:00",
@@ -1736,7 +1963,7 @@
           "ordem": 1,
           "arquivo": "STORY-52_dia-da-poupanca.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-18_2026-10-31/MANHA/STORY-52_dia-da-poupanca.jpg",
+          "caminho_post": "Dia-20_2026-10-31/MANHA/STORY-52_dia-da-poupanca.jpg",
           "url_publica": null
         }
       ]
@@ -1744,7 +1971,7 @@
     {
       "id": "53",
       "data": "2026-10-31",
-      "dia": 18,
+      "dia": 20,
       "dia_semana": "Sábado",
       "horario": "12:00",
       "publicar_em": "2026-10-31T12:00:00-03:00",
@@ -1761,7 +1988,7 @@
           "ordem": 1,
           "arquivo": "REELS-53_3-mitos.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-18_2026-10-31/MANHA/REELS-53_3-mitos.mp4",
+          "caminho_post": "Dia-20_2026-10-31/MANHA/REELS-53_3-mitos.mp4",
           "url_publica": null
         }
       ]
@@ -1769,7 +1996,7 @@
     {
       "id": "54",
       "data": "2026-10-31",
-      "dia": 18,
+      "dia": 20,
       "dia_semana": "Sábado",
       "horario": "18:00",
       "publicar_em": "2026-10-31T18:00:00-03:00",
@@ -1786,245 +2013,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-54_dia-mundial-da-poupanca.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-18_2026-10-31/TARDE/ESTATICO-54_dia-mundial-da-poupanca.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "55",
-      "data": "2026-11-01",
-      "dia": 19,
-      "dia_semana": "Domingo",
-      "horario": "10:00",
-      "publicar_em": "2026-11-01T10:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "STORY",
-      "formato": "Story",
-      "ig_media_type": "STORIES",
-      "tema": "No app: rentabilidade contra o CDI",
-      "legenda": "",
-      "sticker": "Sem sticker (publicado pela API)",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "STORY-55_app-rentabilidade.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-19_2026-11-01/MANHA/STORY-55_app-rentabilidade.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "56",
-      "data": "2026-11-01",
-      "dia": 19,
-      "dia_semana": "Domingo",
-      "horario": "12:00",
-      "publicar_em": "2026-11-01T12:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "FEED",
-      "formato": "Carrossel",
-      "ig_media_type": "CAROUSEL",
-      "tema": "Rentabilidade nominal x real",
-      "legenda": "Seu investimento rendeu 12% no ano. Você ficou 12% mais rico? Não necessariamente.\n\nRentabilidade nominal é o número do extrato: quanto o dinheiro cresceu em reais.\n\nRentabilidade real é quanto ele cresceu depois de descontar a inflação. É a que mostra se o seu poder de compra aumentou de verdade.\n\nA conta não é só subtrair. Com 12% de rendimento e 5% de inflação, o ganho real é (1,12 ÷ 1,05) − 1, o que dá 6,7%.\n\nE o contrário também vale: um investimento que rendeu 4% num ano em que a inflação foi de 5% deixou você com menos poder de compra, mesmo com o saldo maior.\n\nPor isso, compare sempre os seus resultados com a inflação. Na Carteira em Dia, o IPCA aparece no gráfico de rentabilidade junto com a sua carteira.\n\nFicou claro? Salva para não esquecer 📌\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#rentabilidade #inflacao #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "CARROSSEL-56_nominal-x-real_slide-01.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-01.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 2,
-          "arquivo": "CARROSSEL-56_nominal-x-real_slide-02.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-02.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 3,
-          "arquivo": "CARROSSEL-56_nominal-x-real_slide-03.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-03.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 4,
-          "arquivo": "CARROSSEL-56_nominal-x-real_slide-04.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-04.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 5,
-          "arquivo": "CARROSSEL-56_nominal-x-real_slide-05.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-05.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 6,
-          "arquivo": "CARROSSEL-56_nominal-x-real_slide-06.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-19_2026-11-01/MANHA/CARROSSEL-56_nominal-x-real_slide-06.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "57",
-      "data": "2026-11-01",
-      "dia": 19,
-      "dia_semana": "Domingo",
-      "horario": "18:00",
-      "publicar_em": "2026-11-01T18:00:00-03:00",
-      "periodo": "Tarde",
-      "tipo": "FEED",
-      "formato": "Reels",
-      "ig_media_type": "REELS",
-      "tema": "No app: simulador de aporte",
-      "legenda": "Caiu dinheiro novo para investir e veio a dúvida: quanto colocar em cada ativo? 🧮\n\nNo simulador de aporte da Carteira em Dia, você digita o valor e o app mostra como ele se divide entre os ativos, de acordo com as metas de alocação que você definiu (e com as notas que você deu para cada ativo no seu checklist).\n\nGostou da divisão? Dá para registrar os lançamentos direto da simulação, sem digitar tudo de novo.\n\nImportante: é uma conta feita com as suas metas e os seus critérios, não uma recomendação de investimento.\n\nComo você decide o próximo aporte hoje? 👇\n\n#aporte #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "REELS-57_simular-aporte.mp4",
-          "tipo": "video",
-          "caminho_post": "Dia-19_2026-11-01/TARDE/REELS-57_simular-aporte.mp4",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "58",
-      "data": "2026-11-02",
-      "dia": 20,
-      "dia_semana": "Segunda",
-      "horario": "10:00",
-      "publicar_em": "2026-11-02T10:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "STORY",
-      "formato": "Story",
-      "ig_media_type": "STORIES",
-      "tema": "Termo do dia: volatilidade",
-      "legenda": "",
-      "sticker": "Sem sticker (publicado pela API)",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "STORY-58_volatilidade.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/MANHA/STORY-58_volatilidade.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "59",
-      "data": "2026-11-02",
-      "dia": 20,
-      "dia_semana": "Segunda",
-      "horario": "12:00",
-      "publicar_em": "2026-11-02T12:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "FEED",
-      "formato": "Estático",
-      "ig_media_type": "IMAGE",
-      "tema": "Ações x FIIs: o básico",
-      "legenda": "Ações e fundos imobiliários estão lado a lado no home broker, mas são bichos diferentes.\n\nCom ações, você vira sócio de uma empresa. O ganho vem da valorização e dos proventos (dividendos e JCP), que costumam sair em datas variáveis, conforme a política de cada empresa.\n\nCom FIIs, você vira cotista de um fundo que investe no setor imobiliário: galpões, shoppings, escritórios ou títulos ligados a imóveis. Os rendimentos costumam ser distribuídos todo mês.\n\nEm comum: os dois oscilam, os dois dependem do desempenho do negócio e nenhum tem rendimento garantido. O FII que paga bem hoje pode pagar menos amanhã se perder um inquilino, por exemplo.\n\nMuita gente tem os dois na carteira, cada um com um papel.\n\nE você, tem mais ações ou mais FIIs? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#acoes #fundosimobiliarios #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "ESTATICO-59_acoes-x-fiis.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/MANHA/ESTATICO-59_acoes-x-fiis.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "60",
-      "data": "2026-11-02",
-      "dia": 20,
-      "dia_semana": "Segunda",
-      "horario": "18:00",
-      "publicar_em": "2026-11-02T18:00:00-03:00",
-      "periodo": "Tarde",
-      "tipo": "FEED",
-      "formato": "Carrossel",
-      "ig_media_type": "CAROUSEL",
-      "tema": "5 erros de quem está começando a investir",
-      "legenda": "Todo mundo erra no começo. Mas alguns erros são tão comuns que dá para evitar só sabendo que eles existem.\n\n1. Investir sem reserva de emergência. Aí qualquer imprevisto obriga a vender, e quase sempre na hora errada.\n\n2. Escolher pelo que mais rendeu no último ano. Rentabilidade passada não garante rentabilidade futura. O campeão de um ano às vezes é o lanterna do outro.\n\n3. Não saber quanto tem. Com dinheiro em três corretoras e dois bancos, fica difícil enxergar concentrações e riscos.\n\n4. Esquecer taxas e impostos. A rentabilidade que importa é a líquida.\n\n5. Decidir no impulso. Notícia do dia e dica de grupo não são estratégia. Ter critérios definidos antes ajuda a não comprar no topo nem vender no fundo.\n\nQual desses você já cometeu? Pode ser sincero 😅👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#investidoriniciante #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "CARROSSEL-60_5-erros_slide-01.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-01.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 2,
-          "arquivo": "CARROSSEL-60_5-erros_slide-02.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-02.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 3,
-          "arquivo": "CARROSSEL-60_5-erros_slide-03.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-03.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 4,
-          "arquivo": "CARROSSEL-60_5-erros_slide-04.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-04.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 5,
-          "arquivo": "CARROSSEL-60_5-erros_slide-05.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-05.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 6,
-          "arquivo": "CARROSSEL-60_5-erros_slide-06.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-06.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 7,
-          "arquivo": "CARROSSEL-60_5-erros_slide-07.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-20_2026-11-02/TARDE/CARROSSEL-60_5-erros_slide-07.jpg",
+          "caminho_post": "Dia-20_2026-10-31/TARDE/ESTATICO-54_dia-mundial-da-poupanca.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "61",
-      "data": "2026-11-03",
+      "data": "2026-11-01",
       "dia": 21,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "10:00",
-      "publicar_em": "2026-11-03T10:00:00-03:00",
+      "publicar_em": "2026-11-01T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -2038,18 +2038,18 @@
           "ordem": 1,
           "arquivo": "STORY-61_ifix.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-21_2026-11-03/MANHA/STORY-61_ifix.jpg",
+          "caminho_post": "Dia-21_2026-11-01/MANHA/STORY-61_ifix.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "62",
-      "data": "2026-11-03",
+      "data": "2026-11-01",
       "dia": 21,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "12:00",
-      "publicar_em": "2026-11-03T12:00:00-03:00",
+      "publicar_em": "2026-11-01T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -2063,18 +2063,18 @@
           "ordem": 1,
           "arquivo": "REELS-62_por-onde-comecar.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-21_2026-11-03/MANHA/REELS-62_por-onde-comecar.mp4",
+          "caminho_post": "Dia-21_2026-11-01/MANHA/REELS-62_por-onde-comecar.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "63",
-      "data": "2026-11-03",
+      "data": "2026-11-01",
       "dia": 21,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "18:00",
-      "publicar_em": "2026-11-03T18:00:00-03:00",
+      "publicar_em": "2026-11-01T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -2088,18 +2088,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-63_inflacao-poder-de-compra.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-21_2026-11-03/TARDE/ESTATICO-63_inflacao-poder-de-compra.jpg",
+          "caminho_post": "Dia-21_2026-11-01/TARDE/ESTATICO-63_inflacao-poder-de-compra.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "64",
-      "data": "2026-11-04",
+      "data": "2026-11-02",
       "dia": 22,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "10:00",
-      "publicar_em": "2026-11-04T10:00:00-03:00",
+      "publicar_em": "2026-11-02T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -2113,18 +2113,18 @@
           "ordem": 1,
           "arquivo": "STORY-64_diversificar-tem-limite.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-22_2026-11-04/MANHA/STORY-64_diversificar-tem-limite.jpg",
+          "caminho_post": "Dia-22_2026-11-02/MANHA/STORY-64_diversificar-tem-limite.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "65",
-      "data": "2026-11-04",
+      "data": "2026-11-02",
       "dia": 22,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "12:00",
-      "publicar_em": "2026-11-04T12:00:00-03:00",
+      "publicar_em": "2026-11-02T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -2138,53 +2138,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-01.jpg",
+          "caminho_post": "Dia-22_2026-11-02/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-02.jpg",
+          "caminho_post": "Dia-22_2026-11-02/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-03.jpg",
+          "caminho_post": "Dia-22_2026-11-02/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-04.jpg",
+          "caminho_post": "Dia-22_2026-11-02/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-05.jpg",
+          "caminho_post": "Dia-22_2026-11-02/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-65_diversificar-nao-e-pulverizar_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-22_2026-11-04/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-06.jpg",
+          "caminho_post": "Dia-22_2026-11-02/MANHA/CARROSSEL-65_diversificar-nao-e-pulverizar_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "66",
-      "data": "2026-11-04",
+      "data": "2026-11-02",
       "dia": 22,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "18:00",
-      "publicar_em": "2026-11-04T18:00:00-03:00",
+      "publicar_em": "2026-11-02T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -2198,18 +2198,18 @@
           "ordem": 1,
           "arquivo": "REELS-66_rentabilidade-real.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-22_2026-11-04/TARDE/REELS-66_rentabilidade-real.mp4",
+          "caminho_post": "Dia-22_2026-11-02/TARDE/REELS-66_rentabilidade-real.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "67",
-      "data": "2026-11-05",
+      "data": "2026-11-03",
       "dia": 23,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "10:00",
-      "publicar_em": "2026-11-05T10:00:00-03:00",
+      "publicar_em": "2026-11-03T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -2223,18 +2223,18 @@
           "ordem": 1,
           "arquivo": "STORY-67_olhe-uma-vez-por-mes.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/MANHA/STORY-67_olhe-uma-vez-por-mes.jpg",
+          "caminho_post": "Dia-23_2026-11-03/MANHA/STORY-67_olhe-uma-vez-por-mes.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "68",
-      "data": "2026-11-05",
+      "data": "2026-11-03",
       "dia": 23,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "12:00",
-      "publicar_em": "2026-11-05T12:00:00-03:00",
+      "publicar_em": "2026-11-03T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -2248,18 +2248,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-68_tudo-num-lugar.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/MANHA/ESTATICO-68_tudo-num-lugar.jpg",
+          "caminho_post": "Dia-23_2026-11-03/MANHA/ESTATICO-68_tudo-num-lugar.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "69",
-      "data": "2026-11-05",
+      "data": "2026-11-03",
       "dia": 23,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "18:00",
-      "publicar_em": "2026-11-05T18:00:00-03:00",
+      "publicar_em": "2026-11-03T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -2273,53 +2273,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-69_rebalanceamento_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-01.jpg",
+          "caminho_post": "Dia-23_2026-11-03/TARDE/CARROSSEL-69_rebalanceamento_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-69_rebalanceamento_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-02.jpg",
+          "caminho_post": "Dia-23_2026-11-03/TARDE/CARROSSEL-69_rebalanceamento_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-69_rebalanceamento_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-03.jpg",
+          "caminho_post": "Dia-23_2026-11-03/TARDE/CARROSSEL-69_rebalanceamento_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-69_rebalanceamento_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-04.jpg",
+          "caminho_post": "Dia-23_2026-11-03/TARDE/CARROSSEL-69_rebalanceamento_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-69_rebalanceamento_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-05.jpg",
+          "caminho_post": "Dia-23_2026-11-03/TARDE/CARROSSEL-69_rebalanceamento_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-69_rebalanceamento_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-23_2026-11-05/TARDE/CARROSSEL-69_rebalanceamento_slide-06.jpg",
+          "caminho_post": "Dia-23_2026-11-03/TARDE/CARROSSEL-69_rebalanceamento_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "70",
-      "data": "2026-11-06",
+      "data": "2026-11-04",
       "dia": 24,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "10:00",
-      "publicar_em": "2026-11-06T10:00:00-03:00",
+      "publicar_em": "2026-11-04T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -2333,18 +2333,18 @@
           "ordem": 1,
           "arquivo": "STORY-70_app-perguntas.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-24_2026-11-06/MANHA/STORY-70_app-perguntas.jpg",
+          "caminho_post": "Dia-24_2026-11-04/MANHA/STORY-70_app-perguntas.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "71",
-      "data": "2026-11-06",
+      "data": "2026-11-04",
       "dia": 24,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "12:00",
-      "publicar_em": "2026-11-06T12:00:00-03:00",
+      "publicar_em": "2026-11-04T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -2358,18 +2358,18 @@
           "ordem": 1,
           "arquivo": "REELS-71_perguntas.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-24_2026-11-06/MANHA/REELS-71_perguntas.mp4",
+          "caminho_post": "Dia-24_2026-11-04/MANHA/REELS-71_perguntas.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "72",
-      "data": "2026-11-06",
+      "data": "2026-11-04",
       "dia": 24,
-      "dia_semana": "Sexta",
+      "dia_semana": "Quarta",
       "horario": "18:00",
-      "publicar_em": "2026-11-06T18:00:00-03:00",
+      "publicar_em": "2026-11-04T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -2383,15 +2383,235 @@
           "ordem": 1,
           "arquivo": "ESTATICO-72_comecar-cedo.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-24_2026-11-06/TARDE/ESTATICO-72_comecar-cedo.jpg",
+          "caminho_post": "Dia-24_2026-11-04/TARDE/ESTATICO-72_comecar-cedo.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "73",
-      "data": "2026-11-07",
+      "data": "2026-11-05",
       "dia": 25,
+      "dia_semana": "Quinta",
+      "horario": "10:00",
+      "publicar_em": "2026-11-05T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "Termo do dia: aporte",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-73_aporte.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-05/MANHA/STORY-73_aporte.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "data": "2026-11-05",
+      "dia": 25,
+      "dia_semana": "Quinta",
+      "horario": "12:00",
+      "publicar_em": "2026-11-05T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Glossário do investidor: 8 termos",
+      "legenda": "Salva esse glossário para consultar sempre que bater a dúvida 📌\n\nTicker: o código do ativo na Bolsa (ex.: um final 3 é ação ordinária, 4 é preferencial, 11 costuma ser FII, ETF ou unit).\n\nLiquidez: a rapidez com que um investimento vira dinheiro na sua conta.\n\nDividend yield (DY): quanto o ativo pagou de proventos nos últimos 12 meses em relação ao preço.\n\nP/VP: preço da cota dividido pelo valor patrimonial. Muito usado em FIIs.\n\nBenchmark: a régua de comparação. CDI para renda fixa, Ibovespa para ações, IFIX para FIIs.\n\nVolatilidade: o quanto o preço sobe e desce no caminho.\n\nProvento: o que a empresa ou o fundo distribui para você, como dividendos, JCP e rendimentos.\n\nCustódia: onde os seus ativos ficam registrados e guardados.\n\nQual termo você quer ver explicado com mais calma? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#glossario #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-74_glossario_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-05/MANHA/CARROSSEL-74_glossario_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-74_glossario_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-05/MANHA/CARROSSEL-74_glossario_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-74_glossario_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-05/MANHA/CARROSSEL-74_glossario_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-74_glossario_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-05/MANHA/CARROSSEL-74_glossario_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-74_glossario_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-05/MANHA/CARROSSEL-74_glossario_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-74_glossario_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-25_2026-11-05/MANHA/CARROSSEL-74_glossario_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "data": "2026-11-05",
+      "dia": 25,
+      "dia_semana": "Quinta",
+      "horario": "18:00",
+      "publicar_em": "2026-11-05T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Reels",
+      "ig_media_type": "REELS",
+      "tema": "4 sinais de que sua carteira precisa de atenção",
+      "legenda": "4 sinais de que a sua carteira está pedindo atenção 🚨\n\n1. Você não sabe dizer quanto tem investido, somando tudo\n2. Um único ativo pesa demais na carteira\n3. Você nunca comparou a sua rentabilidade com o CDI\n4. Os aportes vão para onde parece mais interessante no dia, sem critério\n\nSe marcou dois ou mais, calma: não precisa revolucionar nada. Um check-up de cinco minutos por mês, olhando patrimônio, rentabilidade, proventos e alocação, já muda o jogo.\n\nQuantos desses você marcou? 👇\n\n#carteiraemdia #checkup #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "REELS-75_4-sinais.mp4",
+          "tipo": "video",
+          "caminho_post": "Dia-25_2026-11-05/TARDE/REELS-75_4-sinais.mp4",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "data": "2026-11-06",
+      "dia": 26,
+      "dia_semana": "Sexta",
+      "horario": "10:00",
+      "publicar_em": "2026-11-06T10:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "STORY",
+      "formato": "Story",
+      "ig_media_type": "STORIES",
+      "tema": "No app: simular aporte",
+      "legenda": "",
+      "sticker": "Sem sticker (publicado pela API)",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "STORY-76_app-simular-aporte.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/MANHA/STORY-76_app-simular-aporte.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "data": "2026-11-06",
+      "dia": 26,
+      "dia_semana": "Sexta",
+      "horario": "12:00",
+      "publicar_em": "2026-11-06T12:00:00-03:00",
+      "periodo": "Manhã",
+      "tipo": "FEED",
+      "formato": "Estático",
+      "ig_media_type": "IMAGE",
+      "tema": "Alocação atual x ideal",
+      "legenda": "Toda carteira tem duas versões: a que você tem e a que você planejou.\n\nCom o tempo, elas se afastam. Uma classe sobe mais que a outra, um aporte vai para onde estava mais fácil, e quando você olha, a carteira que devia ser 40% ações virou 55%.\n\nNa tela de alocação da Carteira em Dia, as duas versões ficam lado a lado: o gráfico da alocação atual e o da alocação ideal, com as metas que você mesmo configura para cada classe (ações, FIIs, renda fixa, Tesouro, exterior, cripto).\n\nCom isso, a pergunta \"onde coloco o próximo aporte?\" fica bem mais fácil: muitas vezes, a resposta é na classe que está abaixo da meta.\n\nAs metas são suas. O app só mostra o caminho.\n\nVocê já definiu a sua alocação ideal? 👇\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#alocacaodeativos #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "ESTATICO-77_atual-x-ideal.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/MANHA/ESTATICO-77_atual-x-ideal.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "data": "2026-11-06",
+      "dia": 26,
+      "dia_semana": "Sexta",
+      "horario": "18:00",
+      "publicar_em": "2026-11-06T18:00:00-03:00",
+      "periodo": "Tarde",
+      "tipo": "FEED",
+      "formato": "Carrossel",
+      "ig_media_type": "CAROUSEL",
+      "tema": "Com o que comparar sua carteira?",
+      "legenda": "Sua carteira rendeu 10% no ano. Foi bom? Só dá para responder comparando com alguma coisa.\n\nEssa \"alguma coisa\" é o benchmark, a régua de comparação. E cada tipo de investimento tem a sua:\n\n• Renda fixa pós-fixada → CDI\n• Proteção contra a inflação → IPCA\n• Ações brasileiras → Ibovespa\n• Empresas menores → SMLL\n• Fundos imobiliários → IFIX\n• Ações pagadoras de dividendos → IDIV\n\nO cuidado é não usar a régua errada no prazo errado. Comparar uma carteira de ações com o CDI em um único mês quase sempre engana, para cima ou para baixo. Renda variável pede prazos maiores para ser avaliada.\n\nUma boa prática: comparar cada parte da carteira com a sua régua e a carteira inteira com um objetivo seu, como IPCA mais uma taxa.\n\nNa Carteira em Dia, o gráfico de rentabilidade compara a sua carteira com CDI, IPCA, Ibovespa, SMLL, IDIV, IFIX e IVVB11.\n\nCom qual índice você compara a sua carteira? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#benchmark #rentabilidade #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
+      "sticker": "Não se aplica",
+      "status": "pronto_para_postar",
+      "midias": [
+        {
+          "ordem": 1,
+          "arquivo": "CARROSSEL-78_benchmark_slide-01.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/TARDE/CARROSSEL-78_benchmark_slide-01.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 2,
+          "arquivo": "CARROSSEL-78_benchmark_slide-02.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/TARDE/CARROSSEL-78_benchmark_slide-02.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 3,
+          "arquivo": "CARROSSEL-78_benchmark_slide-03.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/TARDE/CARROSSEL-78_benchmark_slide-03.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 4,
+          "arquivo": "CARROSSEL-78_benchmark_slide-04.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/TARDE/CARROSSEL-78_benchmark_slide-04.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 5,
+          "arquivo": "CARROSSEL-78_benchmark_slide-05.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/TARDE/CARROSSEL-78_benchmark_slide-05.jpg",
+          "url_publica": null
+        },
+        {
+          "ordem": 6,
+          "arquivo": "CARROSSEL-78_benchmark_slide-06.jpg",
+          "tipo": "imagem",
+          "caminho_post": "Dia-26_2026-11-06/TARDE/CARROSSEL-78_benchmark_slide-06.jpg",
+          "url_publica": null
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "data": "2026-11-07",
+      "dia": 27,
       "dia_semana": "Sábado",
       "horario": "10:00",
       "publicar_em": "2026-11-07T10:00:00-03:00",
@@ -2406,240 +2626,20 @@
       "midias": [
         {
           "ordem": 1,
-          "arquivo": "STORY-73_marcacao-a-mercado.jpg",
+          "arquivo": "STORY-79_marcacao-a-mercado.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-25_2026-11-07/MANHA/STORY-73_marcacao-a-mercado.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "74",
-      "data": "2026-11-07",
-      "dia": 25,
-      "dia_semana": "Sábado",
-      "horario": "12:00",
-      "publicar_em": "2026-11-07T12:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "FEED",
-      "formato": "Carrossel",
-      "ig_media_type": "CAROUSEL",
-      "tema": "Glossário do investidor: 8 termos",
-      "legenda": "Salva esse glossário para consultar sempre que bater a dúvida 📌\n\nTicker: o código do ativo na Bolsa (ex.: um final 3 é ação ordinária, 4 é preferencial, 11 costuma ser FII, ETF ou unit).\n\nLiquidez: a rapidez com que um investimento vira dinheiro na sua conta.\n\nDividend yield (DY): quanto o ativo pagou de proventos nos últimos 12 meses em relação ao preço.\n\nP/VP: preço da cota dividido pelo valor patrimonial. Muito usado em FIIs.\n\nBenchmark: a régua de comparação. CDI para renda fixa, Ibovespa para ações, IFIX para FIIs.\n\nVolatilidade: o quanto o preço sobe e desce no caminho.\n\nProvento: o que a empresa ou o fundo distribui para você, como dividendos, JCP e rendimentos.\n\nCustódia: onde os seus ativos ficam registrados e guardados.\n\nQual termo você quer ver explicado com mais calma? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#glossario #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "CARROSSEL-74_glossario_slide-01.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-01.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 2,
-          "arquivo": "CARROSSEL-74_glossario_slide-02.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-02.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 3,
-          "arquivo": "CARROSSEL-74_glossario_slide-03.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-03.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 4,
-          "arquivo": "CARROSSEL-74_glossario_slide-04.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-04.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 5,
-          "arquivo": "CARROSSEL-74_glossario_slide-05.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-05.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 6,
-          "arquivo": "CARROSSEL-74_glossario_slide-06.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-25_2026-11-07/MANHA/CARROSSEL-74_glossario_slide-06.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "75",
-      "data": "2026-11-07",
-      "dia": 25,
-      "dia_semana": "Sábado",
-      "horario": "18:00",
-      "publicar_em": "2026-11-07T18:00:00-03:00",
-      "periodo": "Tarde",
-      "tipo": "FEED",
-      "formato": "Reels",
-      "ig_media_type": "REELS",
-      "tema": "4 sinais de que sua carteira precisa de atenção",
-      "legenda": "4 sinais de que a sua carteira está pedindo atenção 🚨\n\n1. Você não sabe dizer quanto tem investido, somando tudo\n2. Um único ativo pesa demais na carteira\n3. Você nunca comparou a sua rentabilidade com o CDI\n4. Os aportes vão para onde parece mais interessante no dia, sem critério\n\nSe marcou dois ou mais, calma: não precisa revolucionar nada. Um check-up de cinco minutos por mês, olhando patrimônio, rentabilidade, proventos e alocação, já muda o jogo.\n\nQuantos desses você marcou? 👇\n\n#carteiraemdia #checkup #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "REELS-75_4-sinais.mp4",
-          "tipo": "video",
-          "caminho_post": "Dia-25_2026-11-07/TARDE/REELS-75_4-sinais.mp4",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "76",
-      "data": "2026-11-08",
-      "dia": 26,
-      "dia_semana": "Domingo",
-      "horario": "10:00",
-      "publicar_em": "2026-11-08T10:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "STORY",
-      "formato": "Story",
-      "ig_media_type": "STORIES",
-      "tema": "No app: simular aporte",
-      "legenda": "",
-      "sticker": "Sem sticker (publicado pela API)",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "STORY-76_app-simular-aporte.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/MANHA/STORY-76_app-simular-aporte.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "77",
-      "data": "2026-11-08",
-      "dia": 26,
-      "dia_semana": "Domingo",
-      "horario": "12:00",
-      "publicar_em": "2026-11-08T12:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "FEED",
-      "formato": "Estático",
-      "ig_media_type": "IMAGE",
-      "tema": "Alocação atual x ideal",
-      "legenda": "Toda carteira tem duas versões: a que você tem e a que você planejou.\n\nCom o tempo, elas se afastam. Uma classe sobe mais que a outra, um aporte vai para onde estava mais fácil, e quando você olha, a carteira que devia ser 40% ações virou 55%.\n\nNa tela de alocação da Carteira em Dia, as duas versões ficam lado a lado: o gráfico da alocação atual e o da alocação ideal, com as metas que você mesmo configura para cada classe (ações, FIIs, renda fixa, Tesouro, exterior, cripto).\n\nCom isso, a pergunta \"onde coloco o próximo aporte?\" fica bem mais fácil: muitas vezes, a resposta é na classe que está abaixo da meta.\n\nAs metas são suas. O app só mostra o caminho.\n\nVocê já definiu a sua alocação ideal? 👇\n\nExemplo ilustrativo. Conteúdo educativo. Não é recomendação de investimento.\n\n#alocacaodeativos #carteiraemdia #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "ESTATICO-77_atual-x-ideal.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/MANHA/ESTATICO-77_atual-x-ideal.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "78",
-      "data": "2026-11-08",
-      "dia": 26,
-      "dia_semana": "Domingo",
-      "horario": "18:00",
-      "publicar_em": "2026-11-08T18:00:00-03:00",
-      "periodo": "Tarde",
-      "tipo": "FEED",
-      "formato": "Carrossel",
-      "ig_media_type": "CAROUSEL",
-      "tema": "Com o que comparar sua carteira?",
-      "legenda": "Sua carteira rendeu 10% no ano. Foi bom? Só dá para responder comparando com alguma coisa.\n\nEssa \"alguma coisa\" é o benchmark, a régua de comparação. E cada tipo de investimento tem a sua:\n\n• Renda fixa pós-fixada → CDI\n• Proteção contra a inflação → IPCA\n• Ações brasileiras → Ibovespa\n• Empresas menores → SMLL\n• Fundos imobiliários → IFIX\n• Ações pagadoras de dividendos → IDIV\n\nO cuidado é não usar a régua errada no prazo errado. Comparar uma carteira de ações com o CDI em um único mês quase sempre engana, para cima ou para baixo. Renda variável pede prazos maiores para ser avaliada.\n\nUma boa prática: comparar cada parte da carteira com a sua régua e a carteira inteira com um objetivo seu, como IPCA mais uma taxa.\n\nNa Carteira em Dia, o gráfico de rentabilidade compara a sua carteira com CDI, IPCA, Ibovespa, SMLL, IDIV, IFIX e IVVB11.\n\nCom qual índice você compara a sua carteira? 👇\n\nConteúdo educativo. Não é recomendação de investimento.\n\n#benchmark #rentabilidade #investimentos #educacaofinanceira #financaspessoais #carteiradeinvestimentos",
-      "sticker": "Não se aplica",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "CARROSSEL-78_benchmark_slide-01.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-01.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 2,
-          "arquivo": "CARROSSEL-78_benchmark_slide-02.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-02.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 3,
-          "arquivo": "CARROSSEL-78_benchmark_slide-03.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-03.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 4,
-          "arquivo": "CARROSSEL-78_benchmark_slide-04.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-04.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 5,
-          "arquivo": "CARROSSEL-78_benchmark_slide-05.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-05.jpg",
-          "url_publica": null
-        },
-        {
-          "ordem": 6,
-          "arquivo": "CARROSSEL-78_benchmark_slide-06.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-26_2026-11-08/TARDE/CARROSSEL-78_benchmark_slide-06.jpg",
-          "url_publica": null
-        }
-      ]
-    },
-    {
-      "id": "79",
-      "data": "2026-11-09",
-      "dia": 27,
-      "dia_semana": "Segunda",
-      "horario": "10:00",
-      "publicar_em": "2026-11-09T10:00:00-03:00",
-      "periodo": "Manhã",
-      "tipo": "STORY",
-      "formato": "Story",
-      "ig_media_type": "STORIES",
-      "tema": "Termo do dia: aporte",
-      "legenda": "",
-      "sticker": "Sem sticker (publicado pela API)",
-      "status": "pronto_para_postar",
-      "midias": [
-        {
-          "ordem": 1,
-          "arquivo": "STORY-79_aporte.jpg",
-          "tipo": "imagem",
-          "caminho_post": "Dia-27_2026-11-09/MANHA/STORY-79_aporte.jpg",
+          "caminho_post": "Dia-27_2026-11-07/MANHA/STORY-79_marcacao-a-mercado.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "80",
-      "data": "2026-11-09",
+      "data": "2026-11-07",
       "dia": 27,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "12:00",
-      "publicar_em": "2026-11-09T12:00:00-03:00",
+      "publicar_em": "2026-11-07T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -2653,18 +2653,18 @@
           "ordem": 1,
           "arquivo": "REELS-80_inflacao-1000.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-27_2026-11-09/MANHA/REELS-80_inflacao-1000.mp4",
+          "caminho_post": "Dia-27_2026-11-07/MANHA/REELS-80_inflacao-1000.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "81",
-      "data": "2026-11-09",
+      "data": "2026-11-07",
       "dia": 27,
-      "dia_semana": "Segunda",
+      "dia_semana": "Sábado",
       "horario": "18:00",
-      "publicar_em": "2026-11-09T18:00:00-03:00",
+      "publicar_em": "2026-11-07T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -2678,18 +2678,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-81_investimento-perfeito.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-27_2026-11-09/TARDE/ESTATICO-81_investimento-perfeito.jpg",
+          "caminho_post": "Dia-27_2026-11-07/TARDE/ESTATICO-81_investimento-perfeito.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "82",
-      "data": "2026-11-10",
+      "data": "2026-11-08",
       "dia": 28,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "10:00",
-      "publicar_em": "2026-11-10T10:00:00-03:00",
+      "publicar_em": "2026-11-08T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -2703,18 +2703,18 @@
           "ordem": 1,
           "arquivo": "STORY-82_preco-medio.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-28_2026-11-10/MANHA/STORY-82_preco-medio.jpg",
+          "caminho_post": "Dia-28_2026-11-08/MANHA/STORY-82_preco-medio.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "83",
-      "data": "2026-11-10",
+      "data": "2026-11-08",
       "dia": 28,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "12:00",
-      "publicar_em": "2026-11-10T12:00:00-03:00",
+      "publicar_em": "2026-11-08T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -2728,53 +2728,53 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-83_alocacao-ideal_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-01.jpg",
+          "caminho_post": "Dia-28_2026-11-08/MANHA/CARROSSEL-83_alocacao-ideal_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-83_alocacao-ideal_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-02.jpg",
+          "caminho_post": "Dia-28_2026-11-08/MANHA/CARROSSEL-83_alocacao-ideal_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-83_alocacao-ideal_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-03.jpg",
+          "caminho_post": "Dia-28_2026-11-08/MANHA/CARROSSEL-83_alocacao-ideal_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-83_alocacao-ideal_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-04.jpg",
+          "caminho_post": "Dia-28_2026-11-08/MANHA/CARROSSEL-83_alocacao-ideal_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-83_alocacao-ideal_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-05.jpg",
+          "caminho_post": "Dia-28_2026-11-08/MANHA/CARROSSEL-83_alocacao-ideal_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-83_alocacao-ideal_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-28_2026-11-10/MANHA/CARROSSEL-83_alocacao-ideal_slide-06.jpg",
+          "caminho_post": "Dia-28_2026-11-08/MANHA/CARROSSEL-83_alocacao-ideal_slide-06.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "84",
-      "data": "2026-11-10",
+      "data": "2026-11-08",
       "dia": 28,
-      "dia_semana": "Terça",
+      "dia_semana": "Domingo",
       "horario": "18:00",
-      "publicar_em": "2026-11-10T18:00:00-03:00",
+      "publicar_em": "2026-11-08T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Reels",
@@ -2788,18 +2788,18 @@
           "ordem": 1,
           "arquivo": "REELS-84_historico.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-28_2026-11-10/TARDE/REELS-84_historico.mp4",
+          "caminho_post": "Dia-28_2026-11-08/TARDE/REELS-84_historico.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "85",
-      "data": "2026-11-11",
+      "data": "2026-11-09",
       "dia": 29,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "10:00",
-      "publicar_em": "2026-11-11T10:00:00-03:00",
+      "publicar_em": "2026-11-09T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -2813,18 +2813,18 @@
           "ordem": 1,
           "arquivo": "STORY-85_qual-tema.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/MANHA/STORY-85_qual-tema.jpg",
+          "caminho_post": "Dia-29_2026-11-09/MANHA/STORY-85_qual-tema.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "86",
-      "data": "2026-11-11",
+      "data": "2026-11-09",
       "dia": 29,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "12:00",
-      "publicar_em": "2026-11-11T12:00:00-03:00",
+      "publicar_em": "2026-11-09T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Estático",
@@ -2838,18 +2838,18 @@
           "ordem": 1,
           "arquivo": "ESTATICO-86_maior-desafio.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/MANHA/ESTATICO-86_maior-desafio.jpg",
+          "caminho_post": "Dia-29_2026-11-09/MANHA/ESTATICO-86_maior-desafio.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "87",
-      "data": "2026-11-11",
+      "data": "2026-11-09",
       "dia": 29,
-      "dia_semana": "Quarta",
+      "dia_semana": "Segunda",
       "horario": "18:00",
-      "publicar_em": "2026-11-11T18:00:00-03:00",
+      "publicar_em": "2026-11-09T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Carrossel",
@@ -2863,60 +2863,60 @@
           "ordem": 1,
           "arquivo": "CARROSSEL-87_checklist-mensal_slide-01.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-01.jpg",
+          "caminho_post": "Dia-29_2026-11-09/TARDE/CARROSSEL-87_checklist-mensal_slide-01.jpg",
           "url_publica": null
         },
         {
           "ordem": 2,
           "arquivo": "CARROSSEL-87_checklist-mensal_slide-02.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-02.jpg",
+          "caminho_post": "Dia-29_2026-11-09/TARDE/CARROSSEL-87_checklist-mensal_slide-02.jpg",
           "url_publica": null
         },
         {
           "ordem": 3,
           "arquivo": "CARROSSEL-87_checklist-mensal_slide-03.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-03.jpg",
+          "caminho_post": "Dia-29_2026-11-09/TARDE/CARROSSEL-87_checklist-mensal_slide-03.jpg",
           "url_publica": null
         },
         {
           "ordem": 4,
           "arquivo": "CARROSSEL-87_checklist-mensal_slide-04.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-04.jpg",
+          "caminho_post": "Dia-29_2026-11-09/TARDE/CARROSSEL-87_checklist-mensal_slide-04.jpg",
           "url_publica": null
         },
         {
           "ordem": 5,
           "arquivo": "CARROSSEL-87_checklist-mensal_slide-05.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-05.jpg",
+          "caminho_post": "Dia-29_2026-11-09/TARDE/CARROSSEL-87_checklist-mensal_slide-05.jpg",
           "url_publica": null
         },
         {
           "ordem": 6,
           "arquivo": "CARROSSEL-87_checklist-mensal_slide-06.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-06.jpg",
+          "caminho_post": "Dia-29_2026-11-09/TARDE/CARROSSEL-87_checklist-mensal_slide-06.jpg",
           "url_publica": null
         },
         {
           "ordem": 7,
           "arquivo": "CARROSSEL-87_checklist-mensal_slide-07.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-29_2026-11-11/TARDE/CARROSSEL-87_checklist-mensal_slide-07.jpg",
+          "caminho_post": "Dia-29_2026-11-09/TARDE/CARROSSEL-87_checklist-mensal_slide-07.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "88",
-      "data": "2026-11-12",
+      "data": "2026-11-10",
       "dia": 30,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "10:00",
-      "publicar_em": "2026-11-12T10:00:00-03:00",
+      "publicar_em": "2026-11-10T10:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "STORY",
       "formato": "Story",
@@ -2930,18 +2930,18 @@
           "ordem": 1,
           "arquivo": "STORY-88_um-mes.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-30_2026-11-12/MANHA/STORY-88_um-mes.jpg",
+          "caminho_post": "Dia-30_2026-11-10/MANHA/STORY-88_um-mes.jpg",
           "url_publica": null
         }
       ]
     },
     {
       "id": "89",
-      "data": "2026-11-12",
+      "data": "2026-11-10",
       "dia": 30,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "12:00",
-      "publicar_em": "2026-11-12T12:00:00-03:00",
+      "publicar_em": "2026-11-10T12:00:00-03:00",
       "periodo": "Manhã",
       "tipo": "FEED",
       "formato": "Reels",
@@ -2955,18 +2955,18 @@
           "ordem": 1,
           "arquivo": "REELS-89_antes-do-aporte.mp4",
           "tipo": "video",
-          "caminho_post": "Dia-30_2026-11-12/MANHA/REELS-89_antes-do-aporte.mp4",
+          "caminho_post": "Dia-30_2026-11-10/MANHA/REELS-89_antes-do-aporte.mp4",
           "url_publica": null
         }
       ]
     },
     {
       "id": "90",
-      "data": "2026-11-12",
+      "data": "2026-11-10",
       "dia": 30,
-      "dia_semana": "Quinta",
+      "dia_semana": "Terça",
       "horario": "18:00",
-      "publicar_em": "2026-11-12T18:00:00-03:00",
+      "publicar_em": "2026-11-10T18:00:00-03:00",
       "periodo": "Tarde",
       "tipo": "FEED",
       "formato": "Estático",
@@ -2980,7 +2980,7 @@
           "ordem": 1,
           "arquivo": "ESTATICO-90_rentabilidade-do-jeito-certo.jpg",
           "tipo": "imagem",
-          "caminho_post": "Dia-30_2026-11-12/TARDE/ESTATICO-90_rentabilidade-do-jeito-certo.jpg",
+          "caminho_post": "Dia-30_2026-11-10/TARDE/ESTATICO-90_rentabilidade-do-jeito-certo.jpg",
           "url_publica": null
         }
       ]

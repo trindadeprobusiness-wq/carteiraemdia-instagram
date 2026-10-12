@@ -2,7 +2,7 @@
 
 Artes, Reels e calendário que o publicador do n8n usa para postar no Instagram @carteiraemdia.com.br.
 
-- `carteira-em-dia.json`: calendário com 90 peças (14/10 a 12/11/2026), 3 por dia
+- `carteira-em-dia.json`: calendário com 90 peças (12/10 a 10/11/2026), 3 por dia
   - 10h: story
   - 12h e 18h: feed (carrossel, estático ou Reels, alternando)
 - `Dia-XX_AAAA-MM-DD/MANHA` e `TARDE`: as mídias de cada dia (JPEG e MP4)
